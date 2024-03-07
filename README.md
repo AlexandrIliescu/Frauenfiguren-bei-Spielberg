@@ -1,6 +1,4 @@
 # DH-Projekt-Gruppe-3-
-Bedeutung und Darstellung von Frauenfiguren in den Filmen von Steven Spielberg
-
 Unsere Studie untersucht die Bedeutungszuschreibung und Rollendarstellung von Frauenfiguren in den Filmen von Steven Spielberg. Hierfür vergleicht die Studie die Repräsentation weiblicher und männlicher Filmfiguren, um die Bedeutung der Frauen besser einschätzen zu können. Auch die Darstellung von Frauenfiguren in Filmen von Stanley Kubrick und Quentin Tarantino wurde analysiert, um Spielbergs Filme kontextualisieren zu können. Die Ergebnisse der Untersuchung basieren hauptsächlich auf der Kategorisierung von Redeanteilen der weiblichen Figuren in den Filmskripten durch digitale Annotation sowie auf der Einordnung der Frauenfiguren in die Beziehungsnetzwerke der Filme durch eine Netzwerkanalyse.
 Das Repository enthält die Datengrundlage der Studie sowie die erhobenen Daten.
 
@@ -8,39 +6,39 @@ Das Repository enthält die Datengrundlage der Studie sowie die erhobenen Daten.
 Das Korpus der Untersuchung bestand aus insgesamt 30 digitalen Filmskripten. Die Skripte sind aus Urheberrechtsgründen nicht aufgeführt, können jedoch auf den Filmskriptdatenbanken Script Slug, IMSDb und Drew’s Script-O-Rama gefunden werden. Das Korpus setzte sich aus 20 Skripten von Filmen zusammen, bei denen Steven Spielberg Regie führte, sowie jeweils fünf Vergleichsskripten von Quentin Tarantino und Stanley Kubrick. Diese werden im Folgenden aufgeführt.
 
 Steven Spielberg:
-BFG: Big Friendly Giant
-Bridge of Spies – Der Unterhändler
-Catch Me If You Can
-Der Soldat James Ryan
-Der weiße Hai
-Die Fabelmans
-Die Verlegerin
-Gefährten
-Jäger des verlorenen Schatzes (Indiana Jones 1)
-Indiana Jones und der Tempel des Todes (Indiana Jones 2)
-Indiana Jones und der letzte Kreuzzug (Indiana Jones 3)
-Indiana Jones und das Königreich des Kristallschädels (Indiana Jones 4)
-Jurassic Park
-Vergessene Welt: Jurassic Park
-Krieg der Welten
-Lincoln
-Minority Report
-Ready Player One
-Schindlers Liste
+BFG: Big Friendly Giant;
+Bridge of Spies – Der Unterhändler;
+Catch Me If You Can;
+Der Soldat James Ryan;
+Der weiße Hai;
+Die Fabelmans;
+Die Verlegerin;
+Gefährten;
+Jäger des verlorenen Schatzes (Indiana Jones 1);
+Indiana Jones und der Tempel des Todes (Indiana Jones 2);
+Indiana Jones und der letzte Kreuzzug (Indiana Jones 3);
+Indiana Jones und das Königreich des Kristallschädels (Indiana Jones 4);
+Jurassic Park;
+Vergessene Welt: Jurassic Park;
+Krieg der Welten;
+Lincoln;
+Minority Report;
+Ready Player One;
+Schindlers Liste;
 West Side Story
 
 Quentin Tarantino:
-Django Unchained
-Inglourious Basterds
-Jackie Brown
-Kill Bill – Vol. 1
+Django Unchained;
+Inglourious Basterds;
+Jackie Brown;
+Kill Bill – Vol. 1;
 Reservoir Dogs – Wilde Hunde
 
 Stanley Kubrick:
-Dr. Seltsam oder: Wie ich lernte, die Bombe zu lieben
-Eyes Wide Shut
-Full Metal Jacket
-Shining
+Dr. Seltsam oder: Wie ich lernte, die Bombe zu lieben;
+Eyes Wide Shut;
+Full Metal Jacket;
+Shining;
 Uhrwerk Orange
 
 # ANNOTATIONSLEITFADEN
