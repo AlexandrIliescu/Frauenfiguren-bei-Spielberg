@@ -6,6 +6,7 @@ Das Repository enthält die Datengrundlage der Studie sowie die erhobenen Daten.
 
 # KORPUS
 Das Korpus der Untersuchung bestand aus insgesamt 30 digitalen Filmskripten. Die Skripte sind aus Urheberrechtsgründen nicht aufgeführt, können jedoch auf den Filmskriptdatenbanken Script Slug, IMSDb und Drew’s Script-O-Rama gefunden werden. Das Korpus setzte sich aus 20 Skripten von Filmen zusammen, bei denen Steven Spielberg Regie führte, sowie jeweils fünf Vergleichsskripten von Quentin Tarantino und Stanley Kubrick. Diese werden im Folgenden aufgeführt.
+
 Steven Spielberg:
 BFG: Big Friendly Giant
 Bridge of Spies – Der Unterhändler
