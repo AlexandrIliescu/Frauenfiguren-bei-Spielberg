@@ -1,0 +1,56 @@
+Source,Target,Type,Id,Label,Weight
+Commentator,Disc Jokey,Undirected,0,,1
+Commentator,Glen Rinker,Undirected,1,,1
+Danny,Doctor,Undirected,2,,1
+Danny,Dorothy,Undirected,3,,1
+Danny,Halloran,Undirected,4,,4
+Danny,Hermine,Undirected,5,,1
+Danny,Jack,Undirected,6,,5
+Danny,Susie,Undirected,7,,1
+Danny,Tony,Undirected,8,,5
+Danny,Ullman,Undirected,9,,2
+Danny,Watson,Undirected,10,,2
+Danny,Wendy,Undirected,11,,12
+Dick Halloran,Jack,Undirected,12,,1
+Dick Halloran,Snowcat,Undirected,13,,1
+Dick Halloran,Ullman,Undirected,14,,1
+Dick Halloran,Wendy,Undirected,15,,1
+Disc Jokey,Glen Rinker,Undirected,16,,1
+Doctor,Wendy,Undirected,17,,1
+Dorothy,Hermine,Undirected,18,,1
+Dorothy,Wendy,Undirected,19,,1
+Durkin,Halloran,Undirected,20,,1
+Grady,Jack,Undirected,21,,2
+Halloran,Jack,Undirected,22,,2
+Halloran,Ranger,Undirected,23,,2
+Halloran,Stewardess,Undirected,24,,1
+Halloran,Susie,Undirected,25,,1
+Halloran,Tony,Undirected,26,,1
+Halloran,Ullman,Undirected,27,,2
+Halloran,Watson,Undirected,28,,2
+Halloran,Wendy,Undirected,29,,3
+Hermine,Wendy,Undirected,30,,1
+Jack,Lloyd,Undirected,31,,2
+Jack,Ranger,Undirected,32,,1
+Jack,Receptionist,Undirected,33,,1
+Jack,Secretary,Undirected,34,,1
+Jack,Snowcat,Undirected,35,,1
+Jack,Susie,Undirected,36,,1
+Jack,Ullman,Undirected,37,,8
+Jack,Watson,Undirected,38,,5
+Jack,Wendy,Undirected,39,,24
+Jack,Young Woman,Undirected,40,,1
+Man Announcer,Woman Announcer,Undirected,41,,1
+Ranger,Wendy,Undirected,42,,2
+Receptionist,Secretary,Undirected,43,,1
+Receptionist,Ullman,Undirected,44,,1
+Secretary,Ullman,Undirected,45,,1
+Snowcat,Ullman,Undirected,46,,1
+Snowcat,Wendy,Undirected,47,,1
+Susie,Ullman,Undirected,48,,1
+Susie,Watson,Undirected,49,,1
+Susie,Wendy,Undirected,50,,1
+Tony,Wendy,Undirected,51,,2
+Ullman,Watson,Undirected,52,,5
+Ullman,Wendy,Undirected,53,,6
+Watson,Wendy,Undirected,54,,3

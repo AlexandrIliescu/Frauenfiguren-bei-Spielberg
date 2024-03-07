@@ -1,0 +1,169 @@
+Source,Target,Type,Id,Label,Weight
+Alice,Animal Mother,Undirected,270,,4
+Alice,Cowboy,Undirected,271,,4
+Alice,Crazy Earl,Undirected,272,,2
+Alice,Daddy D.A.,Undirected,273,,1
+Alice,Daddy DA,Undirected,274,,1
+Alice,Doc Jay,Undirected,275,,2
+Alice,Donlon,Undirected,276,,3
+Alice,Donlon Stutten,Undirected,277,,1
+Alice,Hand Job,Undirected,278,,1
+Alice,Lieutenant Touchdown,Undirected,279,,1
+Alice,Private Joker,Undirected,280,,4
+Alice,Rafter Man,Undirected,281,,2
+Alice,Roger,Undirected,282,,1
+Alice,Sergeant Gerheim,Undirected,283,,1
+Alice,Sergeant Murphy,Undirected,284,,1
+Alice,Sonlon,Undirected,285,,1
+Alice,T.H.E. Rock,Undirected,286,,2
+Animal Mother,Cowboy,Undirected,287,,5
+Animal Mother,Crazy Earl,Undirected,288,,2
+Animal Mother,Daddy D.A.,Undirected,289,,1
+Animal Mother,Daddy DA,Undirected,290,,1
+Animal Mother,Doc Jay,Undirected,291,,2
+Animal Mother,Donlon,Undirected,292,,4
+Animal Mother,Donlon Stutten,Undirected,293,,1
+Animal Mother,Hand Job,Undirected,294,,1
+Animal Mother,Liccardi,Undirected,295,,1
+Animal Mother,Lieutenant Touchdown,Undirected,296,,1
+Animal Mother,Private Joker,Undirected,297,,6
+Animal Mother,Rafter Man,Undirected,298,,4
+Animal Mother,Roger,Undirected,299,,1
+Animal Mother,Sergeant Gerheim,Undirected,300,,1
+Animal Mother,Sergeant Murphy,Undirected,301,,2
+Animal Mother,Sonlon,Undirected,302,,1
+Animal Mother,Stutton,Undirected,303,,1
+Animal Mother,T.H.E. Rock,Undirected,304,,2
+Arvin Captain,Door Gunner,Undirected,305,,1
+Arvin Captain,Private Joker,Undirected,306,,1
+Arvin Captain,Rafter Man,Undirected,307,,1
+Captain January,Private Joker,Undirected,308,,1
+Captain January,Rafter Man,Undirected,309,,1
+Chili Vendor,Corporal Jiggles,Undirected,310,,1
+Chili Vendor,Daytona Dave,Undirected,311,,1
+Chili Vendor,Private Joker,Undirected,312,,1
+Chili Vendor,Rafter Man,Undirected,313,,1
+Corporal Durrane,Corporal Seaton,Undirected,314,,1
+Corporal Durrane,Cowboy,Undirected,315,,1
+Corporal Durrane,Private Joker,Undirected,316,,1
+Corporal Durrane,Private Pyle Leonard,Undirected,317,,1
+Corporal Durrane,Sergeant Gerheim,Undirected,318,,1
+Corporal Jiggles,Daytona Dave,Undirected,319,,1
+Corporal Jiggles,Private Joker,Undirected,320,,1
+Corporal Jiggles,Rafter Man,Undirected,321,,1
+Corporal Seaton,Cowboy,Undirected,322,,1
+Corporal Seaton,Private Joker,Undirected,323,,1
+Corporal Seaton,Private Pyle Leonard,Undirected,324,,1
+Corporal Seaton,Sergeant Gerheim,Undirected,325,,1
+Cowboy,Crazy Earl,Undirected,326,,2
+Cowboy,Daddy D.A.,Undirected,327,,1
+Cowboy,Doc Jay,Undirected,328,,2
+Cowboy,Donlon,Undirected,329,,3
+Cowboy,Donlon Stutten,Undirected,330,,1
+Cowboy,Hand Job,Undirected,331,,1
+Cowboy,Liccardi,Undirected,332,,1
+Cowboy,Lieutenant Touchdown,Undirected,333,,1
+Cowboy,Private Joker,Undirected,334,,11
+Cowboy,Private Perkins,Undirected,335,,1
+Cowboy,Private Pyle Leonard,Undirected,336,,6
+Cowboy,Private Snowball,Undirected,337,,2
+Cowboy,Rafter Man,Undirected,338,,5
+Cowboy,Roger,Undirected,339,,1
+Cowboy,Sergeant Gerheim,Undirected,340,,7
+Cowboy,Stutton,Undirected,341,,1
+Cowboy,T.H.E. Rock,Undirected,342,,2
+Cowboy,Victor Charlie,Undirected,343,,1
+Crazy Earl,Doc Jay,Undirected,344,,1
+Crazy Earl,Donlon,Undirected,345,,1
+Crazy Earl,Donlon Stutten,Undirected,346,,1
+Crazy Earl,Hand Job,Undirected,347,,1
+Crazy Earl,Lieutenant Touchdown,Undirected,348,,1
+Crazy Earl,Private Joker,Undirected,349,,2
+Crazy Earl,Rafter Man,Undirected,350,,1
+Crazy Earl,T.H.E. Rock,Undirected,351,,2
+Daddy D.A.,Doc Jay,Undirected,352,,1
+Daddy D.A.,Donlon,Undirected,353,,1
+Daddy D.A.,Private Joker,Undirected,354,,1
+Daddy D.A.,Rafter Man,Undirected,355,,1
+Daddy D.A.,Roger,Undirected,356,,1
+Daddy D.A.,Sergeant Gerheim,Undirected,357,,1
+Daddy DA,Donlon,Undirected,358,,1
+Daddy DA,Private Joker,Undirected,359,,1
+Daddy DA,Sergeant Murphy,Undirected,360,,1
+Daddy DA,Sonlon,Undirected,361,,1
+Daytona Dave,Private Joker,Undirected,362,,1
+Daytona Dave,Rafter Man,Undirected,363,,1
+Doc Jay,Donlon,Undirected,364,,1
+Doc Jay,Donlon Stutten,Undirected,365,,1
+Doc Jay,Private Joker,Undirected,366,,2
+Doc Jay,Rafter Man,Undirected,367,,2
+Doc Jay,Roger,Undirected,368,,1
+Doc Jay,Sergeant Gerheim,Undirected,369,,1
+Doc Jay,T.H.E. Rock,Undirected,370,,1
+Donlon Stutten,Private Joker,Undirected,371,,1
+Donlon Stutten,Rafter Man,Undirected,372,,1
+Donlon Stutten,T.H.E. Rock,Undirected,373,,1
+Donlon,Hand Job,Undirected,374,,1
+Donlon,Liccardi,Undirected,375,,1
+Donlon,Lieutenant Touchdown,Undirected,376,,1
+Donlon,Private Joker,Undirected,377,,4
+Donlon,Rafter Man,Undirected,378,,2
+Donlon,Roger,Undirected,379,,1
+Donlon,Sergeant Gerheim,Undirected,380,,1
+Donlon,Sergeant Murphy,Undirected,381,,1
+Donlon,Sonlon,Undirected,382,,1
+Donlon,Stutton,Undirected,383,,1
+Donlon,T.H.E. Rock,Undirected,384,,1
+Door Gunner,Private Joker,Undirected,385,,1
+Door Gunner,Rafter Man,Undirected,386,,1
+Hand Job,Lieutenant Touchdown,Undirected,387,,1
+Hand Job,Private Joker,Undirected,388,,1
+Hand Job,T.H.E. Rock,Undirected,389,,1
+John Wayne,Private Joker,Undirected,390,,1
+John Wayne,Rafter Man,Undirected,391,,1
+Liccardi,Private Joker,Undirected,392,,1
+Liccardi,Rafter Man,Undirected,393,,1
+Liccardi,Stutton,Undirected,394,,1
+Lieutenant Cleave,Private Joker,Undirected,395,,1
+Lieutenant Cleave,Rafter Man,Undirected,396,,1
+Lieutenant Lockart,Private Joker,Undirected,397,,1
+Lieutenant Lockart,Rafter Man,Undirected,398,,1
+Lieutenant Touchdown,Private Joker,Undirected,399,,1
+Lieutenant Touchdown,T.H.E. Rock,Undirected,400,,1
+Lucie Pratt,Private Pyle Leonard,Undirected,401,,1
+Lucie Pratt,Sergeant Gerheim,Undirected,402,,1
+Major Lynch,Private Joker,Undirected,403,,1
+Major Lynch,Rafter Man,Undirected,404,,1
+Pickett,Private Joker,Undirected,405,,1
+Pickett,Private Pyle Leonard,Undirected,406,,1
+Pickett,Sergeant Gerheim,Undirected,407,,1
+Private Bernard,Sergeant Gerheim,Undirected,408,,1
+Private Joker,Private Pyle Leonard,Undirected,409,,9
+Private Joker,Private Snowball,Undirected,410,,2
+Private Joker,Rafter Man,Undirected,411,,14
+Private Joker,Roger,Undirected,412,,1
+Private Joker,Senior Drill Instructor,Undirected,413,,1
+Private Joker,Sergeant Gerheim,Undirected,414,,9
+Private Joker,Sergeant Murphy,Undirected,415,,2
+Private Joker,Sonlon,Undirected,416,,1
+Private Joker,Stutton,Undirected,417,,1
+Private Joker,T.H.E. Rock,Undirected,418,,2
+Private Joker,The Commanding General of Parris Island,Undirected,419,,1
+Private Joker,Victor Charlie,Undirected,420,,1
+Private Perkins,Private Pyle Leonard,Undirected,421,,1
+Private Perkins,Sergeant Gerheim,Undirected,422,,1
+Private Pyle Leonard,Private Snowball,Undirected,423,,1
+Private Pyle Leonard,Senior Drill Instructor,Undirected,424,,1
+Private Pyle Leonard,Sergeant Gerheim,Undirected,425,,14
+Private Pyle Leonard,Sergeant Gunnery,Undirected,426,,1
+Private Pyle Leonard,The Commanding General of Parris Island,Undirected,427,,1
+Private Snowball,Sergeant Gerheim,Undirected,428,,2
+Rafter Man,Roger,Undirected,429,,1
+Rafter Man,Sergeant Gerheim,Undirected,430,,1
+Rafter Man,Sergeant Murphy,Undirected,431,,1
+Rafter Man,Stutton,Undirected,432,,1
+Rafter Man,T.H.E. Rock,Undirected,433,,1
+Rafter Man,Victor Charlie,Undirected,434,,1
+Roger,Sergeant Gerheim,Undirected,435,,1
+Senior Drill Instructor,Sergeant Gerheim,Undirected,436,,1
+Sergeant Murphy,Sonlon,Undirected,437,,1

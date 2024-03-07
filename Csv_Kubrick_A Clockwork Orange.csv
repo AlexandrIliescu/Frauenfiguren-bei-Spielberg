@@ -1,0 +1,110 @@
+Source,Target,Type,Id,Label,Weight
+Alex,Billy Boy,Undirected,0,,1
+Alex,Catlady,Undirected,1,,3
+Alex,Charlie,Undirected,2,,1
+Alex,Chief Guard,Undirected,3,,4
+Alex,Clerk,Undirected,4,,1
+Alex,Deltoid,Undirected,5,,1
+Alex,Dim,Undirected,6,,7
+Alex,Doctor,Undirected,7,,2
+Alex,Dolin,Undirected,8,,1
+Alex,Dr. Branom,Undirected,9,,3
+Alex,Dr. Branon,Undirected,10,,1
+Alex,Dr. Brodsky,Undirected,11,,3
+Alex,Dr.Taylor,Undirected,12,,1
+Alex,Em,Undirected,13,,4
+Alex,First Policeman,Undirected,14,,1
+Alex,Georgie,Undirected,15,,6
+Alex,Governor,Undirected,16,,1
+Alex,Guard,Undirected,17,,1
+Alex,Joe Lodger,Undirected,18,,1
+Alex,Julian,Undirected,19,,2
+Alex,Junior Minister,Undirected,20,,1
+Alex,Lardface,Undirected,21,,1
+Alex,Marty,Undirected,22,,1
+Alex,Minister,Undirected,23,,2
+Alex,Mr. Alexander,Undirected,24,,7
+Alex,Mrs. Alexander,Undirected,25,,2
+Alex,Nurse,Undirected,26,,2
+Alex,Pee,Undirected,27,,3
+Alex,Pete,Undirected,28,,2
+Alex,Priest,Undirected,29,,4
+Alex,Prison Governor,Undirected,30,,1
+Alex,Rubinstein,Undirected,31,,1
+Alex,Second Policeman,Undirected,32,,1
+Alex,Sonietta,Undirected,33,,1
+Alex,Tramp,Undirected,34,,2
+Alex,Warder,Undirected,35,,1
+Billy Boy,Tramp,Undirected,36,,1
+Catlady,Dim,Undirected,37,,1
+Catlady,Georgie,Undirected,38,,1
+Charlie,Chief Guard,Undirected,39,,1
+Charlie,Doctor,Undirected,40,,1
+Chief Guard,Doctor,Undirected,41,,1
+Chief Guard,Governor,Undirected,42,,2
+Chief Guard,Guard,Undirected,43,,1
+Chief Guard,Minister,Undirected,44,,1
+Chief Guard,Priest,Undirected,45,,1
+Chief Guard,Warder,Undirected,46,,1
+Clerk,Marty,Undirected,47,,1
+Clerk,Sonietta,Undirected,48,,1
+Deltoid,Em,Undirected,49,,1
+Deltoid,Fatneck,Undirected,50,,1
+Deltoid,Inspector,Undirected,51,,1
+Deltoid,Pee,Undirected,52,,1
+Deltoid,Sergeant,Undirected,53,,1
+Dim,First Policeman,Undirected,54,,1
+Dim,Georgie,Undirected,55,,4
+Dim,Pete,Undirected,56,,1
+Dim,Second Policeman,Undirected,57,,1
+Dim,Tramp,Undirected,58,,1
+Doctor,Minister,Undirected,59,,1
+Doctor,Nurse,Undirected,60,,1
+Dolin,Mr. Alexander,Undirected,61,,1
+Dolin,Rubinstein,Undirected,62,,1
+Dr. Branom,Dr. Brodsky,Undirected,63,,2
+Dr. Branom,Junior Minister,Undirected,64,,1
+Dr. Branom,Lardface,Undirected,65,,1
+Dr. Branom,Minister,Undirected,66,,1
+Dr. Branom,Priest,Undirected,67,,1
+Dr. Branom,Prison Governor,Undirected,68,,1
+Dr. Brodsky,Junior Minister,Undirected,69,,1
+Dr. Brodsky,Lardface,Undirected,70,,1
+Dr. Brodsky,Minister,Undirected,71,,1
+Dr. Brodsky,Priest,Undirected,72,,1
+Dr. Brodsky,Prison Governor,Undirected,73,,1
+Em,Joe Lodger,Undirected,74,,1
+Em,Pee,Undirected,75,,3
+Fatneck,Inspector,Undirected,76,,1
+Fatneck,Sergeant,Undirected,77,,1
+First Policeman,Georgie,Undirected,78,,1
+First Policeman,Second Policeman,Undirected,79,,1
+First Policeman,Tramp,Undirected,80,,1
+Georgie,Mr. Alexander,Undirected,81,,1
+Georgie,Mrs. Alexander,Undirected,82,,1
+Georgie,Pete,Undirected,83,,2
+Georgie,Second Policeman,Undirected,84,,1
+Georgie,Tramp,Undirected,85,,1
+Governor,Guard,Undirected,86,,1
+Governor,Minister,Undirected,87,,1
+Guard,Warder,Undirected,88,,1
+Inspector,Sergeant,Undirected,89,,1
+Joe Lodger,Pee,Undirected,90,,1
+Julian,Mr. Alexander,Undirected,91,,3
+Junior Minister,Lardface,Undirected,92,,1
+Junior Minister,Minister,Undirected,93,,1
+Junior Minister,Priest,Undirected,94,,1
+Junior Minister,Prison Governor,Undirected,95,,1
+Lardface,Minister,Undirected,96,,1
+Lardface,Priest,Undirected,97,,1
+Lardface,Prison Governor,Undirected,98,,1
+Marty,Sonietta,Undirected,99,,1
+Minister,Nurse,Undirected,100,,1
+Minister,Priest,Undirected,101,,1
+Minister,Prison Governor,Undirected,102,,1
+Mr. Alexander,Mrs. Alexander,Undirected,103,,2
+Mr. Alexander,Pete,Undirected,104,,1
+Mr. Alexander,Rubinstein,Undirected,105,,1
+Mrs. Alexander,Pete,Undirected,106,,1
+Priest,Prison Governor,Undirected,107,,1
+Second Policeman,Tramp,Undirected,108,,1

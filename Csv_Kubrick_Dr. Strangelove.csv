@@ -1,0 +1,60 @@
+Source,Target,Type,Id,Label,Weight
+Aide,Desadeski,Undirected,109,,1
+Aide,General,Undirected,110,,1
+Aide,Mr. Staines,Undirected,111,,1
+Aide,Muffley,Undirected,112,,1
+Aide,Turgidson,Undirected,113,,1
+Airman,Goldie,Undirected,114,,1
+Airman,Kong,Undirected,115,,1
+Bat Guano,Mandrake,Undirected,116,,2
+Bombardierer,Goldie,Undirected,117,,1
+Bombardierer,Kong,Undirected,118,,1
+Bombardier,Co-Pilot,Undirected,119,,1
+Bombardier,DSO,Undirected,120,,1
+Bombardier,Goldie,Undirected,121,,1
+Bombardier,Kong,Undirected,122,,2
+Bombardier,Navigator,Undirected,123,,2
+Co-Pilot,DSO,Undirected,124,,2
+Co-Pilot,Kong,Undirected,125,,2
+Co-Pilot,Navigator,Undirected,126,,1
+DSO,Kong,Undirected,127,,2
+DSO,Navigator,Undirected,128,,1
+Desadeski,General,Undirected,129,,1
+Desadeski,Generaly,Undirected,130,,1
+Desadeski,Mr. Staines,Undirected,131,,2
+Desadeski,Muffley,Undirected,132,,3
+Desadeski,Strangelove,Undirected,133,,2
+Desadeski,Turgidson,Undirected,134,,3
+Desaseski,Dimitri,Undirected,135,,1
+Desaseski,Muffley,Undirected,136,,1
+Dimitri,Muffley,Undirected,137,,2
+Dimitri,Turgidson,Undirected,138,,1
+Faceman,Mr. Staines,Undirected,139,,1
+Faceman,Muffley,Undirected,140,,1
+Faceman,Turgison,Undirected,141,,1
+Generaly,Muffley,Undirected,142,,1
+Generaly,Strangelove,Undirected,143,,1
+Generaly,Turgidson,Undirected,144,,1
+General,Mr. Staines,Undirected,145,,1
+General,Muffley,Undirected,146,,1
+General,Turgidson,Undirected,147,,1
+Goldie,Kong,Undirected,148,,3
+Goldie,Navigator,Undirected,149,,2
+Kong,Navigator,Undirected,150,,3
+Mandrake,Petty Officer,Undirected,151,,1
+Mandrake,Ripper,Undirected,152,,6
+Miss Scott,Turgidson,Undirected,153,,1
+Mr. Staines,Muffley,Undirected,154,,3
+Mr. Staines,Premier Kissov,Undirected,155,,1
+Mr. Staines,Strangelove,Undirected,156,,1
+Mr. Staines,Turgidson,Undirected,157,,3
+Mr. Staines,Turgison,Undirected,158,,1
+Muffley,Strangelove,Undirected,159,,2
+Muffley,Turgidson,Undirected,160,,5
+Muffley,Turgison,Undirected,161,,1
+Petty Officer,Ripper,Undirected,162,,1
+Premier Kissov,Turgidson,Undirected,163,,1
+Soldier 1,Soldier 2,Undirected,164,,1
+Soldier 1,Soldier 3,Undirected,165,,1
+Soldier 2,Soldier 3,Undirected,166,,1
+Strangelove,Turgidson,Undirected,167,,2

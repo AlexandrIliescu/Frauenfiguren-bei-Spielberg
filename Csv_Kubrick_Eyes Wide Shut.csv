@@ -1,0 +1,103 @@
+Source,Target,Type,Id,Label,Weight
+Alice,Bandleader,Undirected,168,,1
+Alice,Bill,Undirected,169,,11
+Alice,Domino,Undirected,170,,1
+Alice,Helena,Undirected,171,,8
+Alice,Ilona,Undirected,172,,1
+Alice,Lou Nathanson,Undirected,173,,1
+Alice,Mandy,Undirected,174,,1
+Alice,Nick,Undirected,175,,1
+Alice,Roz,Undirected,176,,1
+Alice,Szavost,Undirected,177,,5
+Alice,Ziegler,Undirected,178,,3
+Bandleader,Bill,Undirected,179,,1
+Bandleader,Nick,Undirected,180,,1
+Bill,Boy,Undirected,181,,1
+Bill,Cab Driver,Undirected,182,,1
+Bill,Carl,Undirected,183,,1
+Bill,Clerk,Undirected,184,,1
+Bill,Domino,Undirected,185,,5
+Bill,Elderly Man,Undirected,186,,1
+Bill,Gateman 1,Undirected,187,,1
+Bill,Gateman 2,Undirected,188,,1
+Bill,Gayle,Undirected,189,,2
+Bill,Harris,Undirected,190,,4
+Bill,Helena,Undirected,191,,5
+Bill,Ilona,Undirected,192,,1
+Bill,Janapnese Man,Undirected,193,,1
+Bill,Japanese 1,Undirected,194,,1
+Bill,Japanese 2,Undirected,195,,1
+Bill,Lisa,Undirected,196,,2
+Bill,Lou Nathanson,Undirected,197,,2
+Bill,Maitre D,Undirected,198,,1
+Bill,Mandy,Undirected,199,,3
+Bill,Marion,Undirected,200,,1
+Bill,Marion Nathanson,Undirected,201,,1
+Bill,Masked Butler,Undirected,202,,1
+Bill,Milich,Undirected,203,,4
+Bill,Milich´s Daughter,Undirected,204,,2
+Bill,Miss Amanda Curran,Undirected,205,,1
+Bill,Mysterious Woman,Undirected,206,,5
+Bill,Nick,Undirected,207,,5
+Bill,Nuala,Undirected,208,,2
+Bill,Patient,Undirected,209,,1
+Bill,Receptionist,Undirected,210,,1
+Bill,Red Cloak,Undirected,211,,2
+Bill,Rosa,Undirected,212,,1
+Bill,Roz,Undirected,213,,1
+Bill,Sally,Undirected,214,,1
+Bill,Sarah,Undirected,215,,1
+Bill,Steward,Undirected,216,,1
+Bill,Student 1,Undirected,217,,1
+Bill,Student 2,Undirected,218,,1
+Bill,Tall Butler,Undirected,219,,2
+Bill,Taxi Driver,Undirected,220,,1
+Bill,The Bird Mask Man,Undirected,221,,1
+Bill,The Olderly,Undirected,222,,1
+Bill,The Stalker,Undirected,223,,2
+Bill,Waitress,Undirected,224,,2
+Bill,Young Woman,Undirected,225,,1
+Bill,Ziegler,Undirected,226,,5
+Carl,Marion,Undirected,227,,2
+Carl,Rosa,Undirected,228,,1
+Domino,Sally,Undirected,229,,1
+Gateman 1,Gateman 2,Undirected,230,,1
+Gayle,Harris,Undirected,231,,1
+Gayle,Nuala,Undirected,232,,2
+Harris,Mandy,Undirected,233,,1
+Harris,Nuala,Undirected,234,,1
+Harris,Ziegler,Undirected,235,,2
+Helena,Roz,Undirected,236,,1
+Ilona,Ziegler,Undirected,237,,1
+Janapnese Man,Milich,Undirected,238,,1
+Janapnese Man,Milich´s Daughter,Undirected,239,,1
+Japanese 1,Japanese 2,Undirected,240,,1
+Japanese 1,Milich,Undirected,241,,1
+Japanese 1,Milich´s Daughter,Undirected,242,,1
+Japanese 2,Milich,Undirected,243,,1
+Japanese 2,Milich´s Daughter,Undirected,244,,1
+Lisa,Sarah,Undirected,245,,1
+Lou Nathanson,Marion Nathanson,Undirected,246,,1
+Lou Nathanson,Ziegler,Undirected,247,,1
+Maitre D,Nick,Undirected,248,,1
+Mandy,Szavost,Undirected,249,,1
+Mandy,The Olderly,Undirected,250,,1
+Mandy,Ziegler,Undirected,251,,3
+Marion,Rosa,Undirected,252,,1
+Milich,Milich´s Daughter,Undirected,253,,2
+Miss Amanda Curran,Receptionist,Undirected,254,,1
+Mysterious Woman,Nick,Undirected,255,,1
+Mysterious Woman,Red Cloak,Undirected,256,,2
+Mysterious Woman,Steward,Undirected,257,,1
+Mysterious Woman,Tall Butler,Undirected,258,,2
+Mysterious Woman,The Bird Mask Man,Undirected,259,,1
+Mysterious Woman,Young Woman,Undirected,260,,1
+Nick,Red Cloak,Undirected,261,,1
+Nick,Steward,Undirected,262,,1
+Red Cloak,Steward,Undirected,263,,1
+Red Cloak,Tall Butler,Undirected,264,,1
+Red Cloak,The Bird Mask Man,Undirected,265,,1
+Student 1,Student 2,Undirected,266,,1
+Szavost,Ziegler,Undirected,267,,1
+Tall Butler,The Bird Mask Man,Undirected,268,,1
+Taxi Driver,The Stalker,Undirected,269,,1
