@@ -1,0 +1,190 @@
+Source,Type,Target,Weight
+Albert,Undirected,An Orderly,2
+Albert,Undirected,Andrew,13
+Albert,Undirected,Auctioneer,1
+Albert,Undirected,Captain Nicholls,4
+Albert,Undirected,Commander,1
+Albert,Undirected,Dad,16
+Albert,Undirected,David Lyons,6
+Albert,Undirected,Doctor,3
+Albert,Undirected,Farmer,1
+Albert,Undirected,Farmer 2,1
+Albert,Undirected,Farmer 3,1
+Albert,Undirected,Geordie Soldier,8
+Albert,Undirected,Sergeant Fry,1
+Albert,Undirected,Grandfather,3
+Albert,Undirected,Lyons,8
+Albert,Undirected,Major Tompkins,1
+Albert,Undirected,Mother,26
+Albert,Undirected,Neighbour,1
+Albert,Undirected,Random Soldier,1
+Albert,Undirected,Sam Perkins,2
+Albert,Undirected,Sergeant Fry,4
+Albert,Undirected,Sergeant Martin,3
+Albert,Undirected,Si Easton,3
+Albert,Undirected,Soldier,3
+Albert,Undirected,Soldiers,2
+Albert,Undirected,Young Woman,1
+An Orderly,Undirected,Doctor,2
+An Orderly,Undirected,Geordie Soldier,2
+An Orderly,Undirected,Sergeant Fry,1
+Andrew,Undirected,Auctioneer,2
+Andrew,Undirected,Commander,1
+Andrew,Undirected,Dad,5
+Andrew,Undirected,Dave,1
+Andrew,Undirected,David Lyons,4
+Andrew,Undirected,Fred,1
+Andrew,Undirected,Lyons,6
+Andrew,Undirected,Mother,4
+Andrew,Undirected,Neighbour,1
+Andrew,Undirected,Random Soldier,1
+Andrew,Undirected,Sergeant Martin,3
+Andrew,Undirected,Si Easton,4
+Andrew,Undirected,Soldier,2
+Andrew,Undirected,Soldiers,1
+Artillery Officer,Undirected,Brandt,1
+Artillery Officer,Undirected,Friedrich,2
+Auction man 1,Undirected,Farmer,1
+Auction man 1,Undirected,Farmer 2,1
+Auction man 1,Undirected,Farmer 3,1
+Auction man 1,Undirected,Mother,1
+Auction man 2,Undirected,Auction man 3,1
+Auctioneer,Undirected,Dad,4
+Auctioneer,Undirected,Dave,1
+Auctioneer,Undirected,David Lyons,1
+Auctioneer,Undirected,Final Bidder,1
+Auctioneer,Undirected,Fred,1
+Auctioneer,Undirected,Geordie Soldier,2
+Auctioneer,Undirected,Grandfather,1
+Auctioneer,Undirected,Lyons,4
+Auctioneer,Undirected,Sergeant Fry,3
+Auctioneer,Undirected,Si Easton,4
+Auctioneer,Undirected,The Butcher,2
+Base Camp Officer,Undirected,Gunther,3
+Base Camp Officer,Undirected,Michael,3
+Base Camp Opfficer,Undirected,German Officer,1
+Base Camp Opfficer,Undirected,Gunther,1
+Base Camp Opfficer,Undirected,Michael,1
+Brandt,Undirected,Emilie,2
+Brandt,Undirected,Friedrich,2
+Brandt,Undirected,Frierich,1
+Brandt,Undirected,German Soldier,1
+Brandt,Undirected,Grandfather,2
+British Captain,Undirected,British Soldier,1
+British Captain,Undirected,Geordie Soldier,3
+British Captain,Undirected,Peter,1
+British Captain,Undirected,Second German,1
+British Captain,Undirected,Third German,1
+British Soldier,Undirected,Geordie Soldier,1
+British Soldier,Undirected,Peter,1
+British Soldier,Undirected,Second German,1
+British Soldier,Undirected,Third German,1
+Captain Nicholls,Undirected,Charlie Waverly,7
+Captain Nicholls,Undirected,Dad,3
+Captain Nicholls,Undirected,German Officer,1
+Captain Nicholls,Undirected,German Soldier,1
+Captain Nicholls,Undirected,Major Stewart,9
+Captain Nicholls,Undirected,Major Stwart,1
+Captain Nicholls,Undirected,Mother,1
+Captain Nicholls,Undirected,Recruiting Officer,1
+Captain Nicholls,Undirected,Sam Perkins,3
+Captain Nicholls,Undirected,Sam perkins,1
+Captain Nicholls,Undirected,Singh,1
+Captain Nicholls,Undirected,Troopers,1
+Captian Nicholls,Undirected,Charlie Waverly,1
+Captian Nicholls,Undirected,Major Stewart,1
+Captian Nicholls,Undirected,Singh,1
+Charlie Waverly,Undirected,Major Stewart,6
+Charlie Waverly,Undirected,Sam perkins,1
+Charlie Waverly,Undirected,Singh,2
+Commander,Undirected,David Lyons,1
+Commander,Undirected,Sergeant Martin,1
+Commander,Undirected,Soldiers,1
+Dad,Undirected,Dave,1
+Dad,Undirected,David Lyons,2
+Dad,Undirected,Fred,1
+Dad,Undirected,Lyons,12
+Dad,Undirected,Mother,18
+Dad,Undirected,Sam Perkins,2
+Dad,Undirected,Si Easton,8
+Dave,Undirected,Fred,1
+Dave,Undirected,Lyons,1
+Dave,Undirected,Si Easton,1
+David Lyons,Undirected,Lyons,2
+David Lyons,Undirected,Medical Officer,1
+David Lyons,Undirected,Sergeant Martin,3
+David Lyons,Undirected,Si Easton,2
+David Lyons,Undirected,Soldier,1
+David Lyons,Undirected,Soldier,1
+David Lyons,Undirected,Young Woman,1
+Doctor,Undirected,Geordie Soldier,3
+Doctor,Undirected,Sergeant Fry,1
+Emilie,Undirected,German Officer,1
+Emilie,Undirected,German Soldier,2
+Emilie,Undirected,Grandfather,15
+Emilie,Undirected,Soldier,2
+Farmer 2,Undirected,Farmer 3,3
+Farmer 2,Undirected,Mother,2
+Farmer 2,Undirected,Neighs,1
+Farmer 3,Undirected,Mother,2
+Farmer 3,Undirected,Neighs,1
+Farmer,Undirected,Farmer 2,3
+Farmer,Undirected,Farmer 3,3
+Farmer,Undirected,Mother,2
+Farmer,Undirected,Neighs,1
+Final Bidder,Undirected,Grandfather,1
+Final Bidder,Undirected,Sergeant Fry,1
+Final Bidder,Undirected,The Butcher,1
+Fred,Undirected,Lyons,1
+Fred,Undirected,Si Easton,1
+Friedrich,Undirected,German Officer,1
+Friedrich,Undirected,German Offier,1
+Friedrich,Undirected,Soldier,1
+Geordie Soldier,Undirected,Sergeant Fry,1
+Geordie Soldier,Undirected,Grandfather,1
+Geordie Soldier,Undirected,Peter,7
+Geordie Soldier,Undirected,Second German,1
+Geordie Soldier,Undirected,Sergeant Fry,4
+Geordie Soldier,Undirected,Soldier,2
+Geordie Soldier,Undirected,Soldiers,1
+Geordie Soldier,Undirected,Solier 2,1
+Geordie Soldier,Undirected,The Butcher,1
+Geordie Soldier,Undirected,Third German,1
+Gergeant Fry,Undirected,Soldiers,1
+German Officer,Undirected,Grandfather,1
+German Officer,Undirected,Gunther,2
+German Officer,Undirected,Major Stewart,1
+German Officer,Undirected,Michael,1
+German Officer,Undirected,Soldiers,1
+German Officer,Undirected,Third Officer,1
+German Soldier,Undirected,Grandfather,2
+German Soldier,Undirected,Gunther,1
+German Soldier,Undirected,Major Stewart,1
+German Soldier,Undirected,Michael,1
+Grandfather,Undirected,Sergeant Fry,1
+Grandfather,Undirected,Soldiers,2
+Grandfather,Undirected,The Butcher,1
+Groom,Undirected,Sam Perkins,1
+Gunther,Undirected,Michael,11
+Gunther,Undirected,Third Officer,1
+Lyons,Undirected,Mother,5
+Lyons,Undirected,Neighbour,1
+Lyons,Undirected,Si Easton,6
+Major Stewart,Undirected,Sam Perkins,1
+Major Stewart,Undirected,Sam Perkins,1
+Major Stewart,Undirected,Singh,2
+Major Stewart,Undirected,Troopers,1
+Major Tompkins,Undirected,Sergeant Fry,1
+Medical Officer,Undirected,Sergeant Martin,1
+Mother,Undirected,Neighbour,1
+Mother,Undirected,Neighs,1
+Mother,Undirected,Sam Perkins,1
+Mother,Undirected,Si Easton,3
+Peter,Undirected,Second German,2
+Peter,Undirected,Third German,2
+Second German,Undirected,Third German,2
+Sergeant Fry,Undirected,Soldier,1
+Sergeant Fry,Undirected,The Butcher,2
+Sergeant Martin,Undirected,Soldier,1
+Sergeant Martin,Undirected,Soldiers,1
+Soldier,Undirected,Solier 2,1

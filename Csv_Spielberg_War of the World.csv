@@ -1,0 +1,126 @@
+Source,Type,Target,Weight
+Captain,Undirected,Harbor Master,1
+Captain,Undirected,Rachel,1
+Captain,Undirected,Ray,1
+Captain,Undirected,Robbie,1
+Captain,Undirected,Sheryl,1
+Captain,Undirected,Woman,1
+Cop 1,Undirected,Cop 2,1
+Cop 1,Undirected,Friend 2,1
+Cop 1,Undirected,Friend 3,1
+Cop 1,Undirected,Friend 4,1
+Cop 1,Undirected,Manny,1
+Cop 1,Undirected,Ray,1
+Cop 1,Undirected,Robbie,1
+Cop 2,Undirected,Friend 2,1
+Cop 2,Undirected,Friend 3,1
+Cop 2,Undirected,Friend 4,1
+Cop 2,Undirected,Manny,1
+Cop 2,Undirected,Ray,1
+Cop 2,Undirected,Robbie,1
+Driver,Undirected,Max,1
+Driver,Undirected,News Reporter,1
+Driver,Undirected,Ray,1
+Friend 1,Undirected,Friend 2,1
+Friend 1,Undirected,Ray,1
+Friend 2,Undirected,Friend 3,1
+Friend 2,Undirected,Friend 4,1
+Friend 2,Undirected,Manny,1
+Friend 2,Undirected,Rachel,1
+Friend 2,Undirected,Ray,3
+Friend 2,Undirected,Robbie,1
+Friend 3,Undirected,Friend 4,1
+Friend 3,Undirected,Manny,1
+Friend 3,Undirected,Ray,1
+Friend 3,Undirected,Robbie,1
+Friend 4,Undirected,Manny,1
+Friend 4,Undirected,Ray,2
+Friend 4,Undirected,Robbie,1
+Harbor Master,Undirected,Rachel,1
+Harbor Master,Undirected,Ray,1
+Harbor Master,Undirected,Robbie,1
+Harbor Master,Undirected,Sheryl,1
+Harbor Master,Undirected,Woman,1
+Harland,Undirected,Rachel,1
+Harland,Undirected,Ray,1
+Manny,Undirected,Rachel,1
+Manny,Undirected,Ray,2
+Manny,Undirected,Robbie,2
+Mary Ann,Undirected,Narrator,1
+Mary Ann,Undirected,Rachel,4
+Mary Ann,Undirected,Ray,4
+Mary Ann,Undirected,Robbie,3
+Mary Ann,Undirected,Soldier 2,1
+Mary Ann,Undirected,Soldier 3,1
+Mary Ann,Undirected,Soldier 4,1
+Mary Ann,Undirected,Soldier 5,1
+Mary Ann,Undirected,Soldier 6,1
+Mary Ann,Undirected,Tim,2
+Max,Undirected,News Reporter,1
+Max,Undirected,Ray,1
+Narrator,Undirected,Rachel,1
+Narrator,Undirected,Ray,1
+Narrator,Undirected,Robbie,1
+Narrator,Undirected,Soldier 2,1
+Narrator,Undirected,Soldier 3,1
+Narrator,Undirected,Soldier 4,1
+Narrator,Undirected,Soldier 5,1
+Narrator,Undirected,Soldier 6,1
+News Reporter,Undirected,Ray,1
+Police Man 3,Undirected,Rachel,1
+Police Man 3,Undirected,Ray,1
+Police Man 3,Undirected,Robbie,1
+Rachel,Undirected,Ray,21
+Rachel,Undirected,Riot Man 1,1
+Rachel,Undirected,Riot Man 2,1
+Rachel,Undirected,Riot Man 3,1
+Rachel,Undirected,Robbie,16
+Rachel,Undirected,Sheryl,1
+Rachel,Undirected,Soldier,1
+Rachel,Undirected,Soldier 2,1
+Rachel,Undirected,Soldier 3,1
+Rachel,Undirected,Soldier 4,1
+Rachel,Undirected,Soldier 5,1
+Rachel,Undirected,Soldier 6,1
+Rachel,Undirected,Tim,2
+Rachel,Undirected,Woman,2
+Ray,Undirected,Riot Man 1,1
+Ray,Undirected,Riot Man 2,1
+Ray,Undirected,Riot Man 3,1
+Ray,Undirected,Robbie,16
+Ray,Undirected,Sal,1
+Ray,Undirected,Sheryl,1
+Ray,Undirected,Soldier,1
+Ray,Undirected,Soldier 2,1
+Ray,Undirected,Soldier 3,1
+Ray,Undirected,Soldier 4,1
+Ray,Undirected,Soldier 5,1
+Ray,Undirected,Soldier 6,1
+Ray,Undirected,Tim,2
+Ray,Undirected,Woman,2
+Riot Man 1,Undirected,Riot Man 2,1
+Riot Man 1,Undirected,Riot Man 3,1
+Riot Man 1,Undirected,Robbie,1
+Riot Man 2,Undirected,Riot Man 3,1
+Riot Man 2,Undirected,Robbie,1
+Riot Man 3,Undirected,Robbie,1
+Robbie,Undirected,Sheryl,1
+Robbie,Undirected,Soldier,1
+Robbie,Undirected,Soldier 2,1
+Robbie,Undirected,Soldier 3,1
+Robbie,Undirected,Soldier 4,1
+Robbie,Undirected,Soldier 5,1
+Robbie,Undirected,Soldier 6,1
+Robbie,Undirected,Tim,1
+Robbie,Undirected,Woman,2
+Sheryl,Undirected,Woman,1
+Soldier 2,Undirected,Soldier 3,1
+Soldier 2,Undirected,Soldier 4,1
+Soldier 2,Undirected,Soldier 5,1
+Soldier 2,Undirected,Soldier 6,1
+Soldier 3,Undirected,Soldier 4,1
+Soldier 3,Undirected,Soldier 5,1
+Soldier 3,Undirected,Soldier 6,1
+Soldier 4,Undirected,Soldier 5,1
+Soldier 4,Undirected,Soldier 6,1
+Soldier 5,Undirected,Soldier 6,1

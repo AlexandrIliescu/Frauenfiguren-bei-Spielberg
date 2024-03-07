@@ -1,0 +1,239 @@
+Source,Type,Target,Weight
+Alsop,Undirected,Kay,1
+Alsop,Undirected,Lally,1
+Alsop,Undirected,Paul,1
+Anchor,Undirected,Fritz,1
+Anchor,Undirected,Ignatius,1
+Anchor,Undirected,Kay,1
+Anchor,Undirected,Liz,1
+Anchor,Undirected,Marvin,1
+Archie,Undirected,Bradlee,1
+Archie,Undirected,Howard,1
+Archie,Undirected,Kay,1
+Archie,Undirected,Lally,1
+Archie,Undirected,Paul,1
+Archie,Undirected,Scotty,1
+Archie,Undirected,Tony,1
+Assaye,Undirected,Bradlee,1
+Assaye,Undirected,Chalmers,1
+Assaye,Undirected,Clark,1
+Assaye,Undirected,Fritz,1
+Assaye,Undirected,Gesellin,1
+Assaye,Undirected,Howard,1
+Assaye,Undirected,Lawyers,1
+Assaye,Undirected,Meg,1
+Bagdikian,Undirected,Boardmember,1
+Bagdikian,Undirected,Bradlee,8
+Bagdikian,Undirected,Cynthia,1
+Bagdikian,Undirected,Editor 1,1
+Bagdikian,Undirected,Ellsberg,1
+Bagdikian,Undirected,Fritz,3
+Bagdikian,Undirected,Gene,1
+Bagdikian,Undirected,Geyelin,3
+Bagdikian,Undirected,Graham,1
+Bagdikian,Undirected,Griswold,1
+Bagdikian,Undirected,Howard,4
+Bagdikian,Undirected,Ignatius,2
+Bagdikian,Undirected,Judge Black,1
+Bagdikian,Undirected,Katharine,1
+Bagdikian,Undirected,Kay,6
+Bagdikian,Undirected,Lally,2
+Bagdikian,Undirected,Liz,1
+Bagdikian,Undirected,Marina,1
+Bagdikian,Undirected,Marvin,1
+Bagdikian,Undirected,McNamara,1
+Bagdikian,Undirected,Med,1
+Bagdikian,Undirected,Meg,4
+Bagdikian,Undirected,The Men,1
+Bagdikian,Undirected,Tony,1
+Balles,Undirected,Bradlee,1
+Balles,Undirected,Fritz,1
+Balles,Undirected,Howard,1
+Balles,Undirected,Kay,1
+Balles,Undirected,Meg,1
+Balles,Undirected,Young Woman,1
+Boardmember,Undirected,Bradlee,1
+Boardmember,Undirected,Cynthia,1
+Boardmember,Undirected,Editor 1,1
+Boardmember,Undirected,Fritz,1
+Boardmember,Undirected,Gene,1
+Boardmember,Undirected,Geyelin,1
+Boardmember,Undirected,Howard,1
+Boardmember,Undirected,Ignatius,1
+Boardmember,Undirected,Kay,1
+Boardmember,Undirected,Liz,1
+Boardmember,Undirected,Marvin,1
+Boardmember,Undirected,Meg,1
+Boardmember,Undirected,The Men,1
+Bradlee,Undirected,Chalmers,1
+Bradlee,Undirected,Charlotte,1
+Bradlee,Undirected,Clark,2
+Bradlee,Undirected,Cynthia,2
+Bradlee,Undirected,Editor 1,1
+Bradlee,Undirected,Ellsberg,1
+Bradlee,Undirected,Fritz,6
+Bradlee,Undirected,Gene,2
+Bradlee,Undirected,Gesellin,1
+Bradlee,Undirected,Geyelin,3
+Bradlee,Undirected,Graham,1
+Bradlee,Undirected,Griswold,1
+Bradlee,Undirected,Howard,10
+Bradlee,Undirected,Ignatius,2
+Bradlee,Undirected,Judge Black,1
+Bradlee,Undirected,Katharine,2
+Bradlee,Undirected,Kay,12
+Bradlee,Undirected,Lally,4
+Bradlee,Undirected,Lawyers,1
+Bradlee,Undirected,Liz,1
+Bradlee,Undirected,Marina,1
+Bradlee,Undirected,Marvin,1
+Bradlee,Undirected,McNamara,1
+Bradlee,Undirected,Med,1
+Bradlee,Undirected,Meg,7
+Bradlee,Undirected,Michael,1
+Bradlee,Undirected,Paul,1
+Bradlee,Undirected,Phil,1
+Bradlee,Undirected,Scotty,1
+Bradlee,Undirected,The Men,1
+Bradlee,Undirected,Tony,4
+Bradlee,Undirected,Waiter,1
+Bradlee,Undirected,Young Woman,1
+Chalmers,Undirected,Clark,1
+Chalmers,Undirected,Fritz,1
+Chalmers,Undirected,Gesellin,1
+Chalmers,Undirected,Howard,1
+Chalmers,Undirected,Lawyers,1
+Chalmers,Undirected,Meg,1
+Charlotte,Undirected,Howard,1
+Clark,Undirected,Fritz,1
+Clark,Undirected,Gesellin,1
+Clark,Undirected,Howard,2
+Clark,Undirected,Lawyers,1
+Clark,Undirected,Meg,2
+Clark,Undirected,Tony,1
+Cynthia,Undirected,Editor 1,1
+Cynthia,Undirected,Fritz,2
+Cynthia,Undirected,Gene,1
+Cynthia,Undirected,Geyelin,1
+Cynthia,Undirected,Howard,1
+Cynthia,Undirected,Ignatius,1
+Cynthia,Undirected,Kay,2
+Cynthia,Undirected,Liz,1
+Cynthia,Undirected,Marvin,1
+Cynthia,Undirected,Meg,1
+Cynthia,Undirected,Phil,1
+Cynthia,Undirected,The Men,1
+Editor 1,Undirected,Fritz,1
+Editor 1,Undirected,Gene,1
+Editor 1,Undirected,Geyelin,1
+Editor 1,Undirected,Howard,1
+Editor 1,Undirected,Ignatius,1
+Editor 1,Undirected,Kay,1
+Editor 1,Undirected,Liz,1
+Editor 1,Undirected,Marvin,1
+Editor 1,Undirected,Meg,1
+Editor 1,Undirected,The Men,1
+Ellsberg,Undirected,Kay,1
+Fritz,Undirected,Gene,2
+Fritz,Undirected,Gesellin,1
+Fritz,Undirected,Geyelin,1
+Fritz,Undirected,Griswold,1
+Fritz,Undirected,Howard,4
+Fritz,Undirected,Ignatius,4
+Fritz,Undirected,Judge Black,1
+Fritz,Undirected,Kay,7
+Fritz,Undirected,Lally,1
+Fritz,Undirected,Lawyers,1
+Fritz,Undirected,Liz,2
+Fritz,Undirected,Marvin,2
+Fritz,Undirected,Meg,4
+Fritz,Undirected,Phil,1
+Fritz,Undirected,The Men,1
+Fritz,Undirected,Tony,1
+Fritz,Undirected,Young Woman,1
+Gene,Undirected,Geyelin,1
+Gene,Undirected,Howard,2
+Gene,Undirected,Ignatius,2
+Gene,Undirected,Kay,3
+Gene,Undirected,Lally,1
+Gene,Undirected,Liz,1
+Gene,Undirected,Marvin,1
+Gene,Undirected,Meg,1
+Gene,Undirected,The Men,1
+Gesellin,Undirected,Howard,1
+Gesellin,Undirected,Lawyers,1
+Gesellin,Undirected,Meg,1
+Geyelin,Undirected,Graham,1
+Geyelin,Undirected,Howard,2
+Geyelin,Undirected,Ignatius,1
+Geyelin,Undirected,Kay,2
+Geyelin,Undirected,Liz,1
+Geyelin,Undirected,Marina,1
+Geyelin,Undirected,Marvin,1
+Geyelin,Undirected,McNamara,1
+Geyelin,Undirected,Med,1
+Geyelin,Undirected,Meg,2
+Geyelin,Undirected,The Men,1
+Graham,Undirected,Med,1
+Griswold,Undirected,Judge Black,1
+Griswold,Undirected,Kay,1
+Griswold,Undirected,Lally,1
+Griswold,Undirected,Meg,1
+Howard,Undirected,Ignatius,2
+Howard,Undirected,Kay,6
+Howard,Undirected,Lally,2
+Howard,Undirected,Lawyers,1
+Howard,Undirected,Liz,1
+Howard,Undirected,Marina,1
+Howard,Undirected,Marvin,1
+Howard,Undirected,McNamara,1
+Howard,Undirected,Meg,6
+Howard,Undirected,Paul,1
+Howard,Undirected,Scotty,1
+Howard,Undirected,The Men,1
+Howard,Undirected,Tony,3
+Howard,Undirected,Young Woman,1
+Ignatius,Undirected,Kay,5
+Ignatius,Undirected,Liz,2
+Ignatius,Undirected,Marvin,2
+Ignatius,Undirected,Meg,1
+Ignatius,Undirected,The Men,1
+Ignatius,Undirected,Tony,1
+Judge Black,Undirected,Kay,1
+Judge Black,Undirected,Lally,1
+Judge Black,Undirected,Meg,1
+Katharine,Undirected,Kay,2
+Katharine,Undirected,Lally,1
+Katharine,Undirected,Waiter,1
+Kay,Undirected,Lally,5
+Kay,Undirected,Liz,2
+Kay,Undirected,Marina,1
+Kay,Undirected,Marvin,2
+Kay,Undirected,McNamara,2
+Kay,Undirected,Meg,4
+Kay,Undirected,Paul,2
+Kay,Undirected,Phil,1
+Kay,Undirected,Scotty,1
+Kay,Undirected,The Men,1
+Kay,Undirected,Tony,2
+Kay,Undirected,Waiter,1
+Kay,Undirected,Young Woman,1
+Lally,Undirected,Meg,1
+Lally,Undirected,Paul,2
+Lally,Undirected,Scotty,1
+Lally,Undirected,Tony,1
+Lawyers,Undirected,Meg,1
+Liz,Undirected,Marvin,2
+Liz,Undirected,Meg,1
+Liz,Undirected,The Men,1
+Marina,Undirected,McNamara,1
+Marina,Undirected,Meg,1
+Marvin,Undirected,Meg,1
+Marvin,Undirected,The Men,1
+McNamara,Undirected,Meg,1
+Meg,Undirected,The Men,1
+Meg,Undirected,Tony,1
+Meg,Undirected,Young Woman,1
+Paul,Undirected,Scotty,1
+Paul,Undirected,Tony,1
+Scotty,Undirected,Tony,1
