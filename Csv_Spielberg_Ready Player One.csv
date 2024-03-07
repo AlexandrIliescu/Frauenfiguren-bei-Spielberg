@@ -1,0 +1,137 @@
+Source,Type,Target,Weight
+A Musket,Undirected,Aech,1
+A Musket,Undirected,Artemis,1
+A Musket,Undirected,Ioi,1
+A Musket,Undirected,Parzival,1
+A Musket,Undirected,Sixer,1
+A Musket,Undirected,Wade,1
+Aech,Undirected,Anorak,1
+Aech,Undirected,Artemis,7
+Aech,Undirected,Chess,1
+Aech,Undirected,Daito,3
+Aech,Undirected,Figure,1
+Aech,Undirected,Halliday,3
+Aech,Undirected,Harrison,1
+Aech,Undirected,Historian,1
+Aech,Undirected,Ioi,2
+Aech,Undirected,Morrow,3
+Aech,Undirected,Number Six,4
+Aech,Undirected,Parzival,12
+Aech,Undirected,Photo,1
+Aech,Undirected,Shoto,1
+Aech,Undirected,Sixer,3
+Aech,Undirected,Sorrento,5
+Aech,Undirected,Thumb,1
+Aech,Undirected,Vendor,1
+Aech,Undirected,Wade,8
+Alice,Undirected,Ioi,1
+Alice,Undirected,Rick,3
+Alice,Undirected,Tattoo,1
+Alice,Undirected,Wade,4
+Anorak,Undirected,Artemis,2
+Anorak,Undirected,Daito,1
+Anorak,Undirected,Halliday,1
+Anorak,Undirected,Harrison,1
+Anorak,Undirected,Historian,1
+Anorak,Undirected,Morrow,1
+Anorak,Undirected,Number Six,1
+Anorak,Undirected,Parzival,3
+Anorak,Undirected,Photo,1
+Anorak,Undirected,Sixer,1
+Anorak,Undirected,Sorrento,2
+Anorak,Undirected,Ten year old girl,1
+Anorak,Undirected,Wade,2
+Artemis,Undirected,Daito,2
+Artemis,Undirected,Ernie,1
+Artemis,Undirected,Halliday,2
+Artemis,Undirected,Harrison,1
+Artemis,Undirected,Historian,2
+Artemis,Undirected,Ioi,2
+Artemis,Undirected,Kid,1
+Artemis,Undirected,Morrow,1
+Artemis,Undirected,Number Six,2
+Artemis,Undirected,Parzival,8
+Artemis,Undirected,Photo,1
+Artemis,Undirected,Shoto,1
+Artemis,Undirected,Sixer,2
+Artemis,Undirected,Sorrento,3
+Artemis,Undirected,Wade,7
+Chess,Undirected,Number Six,1
+Chess,Undirected,Parzival,1
+Chess,Undirected,Sixer,1
+Chess,Undirected,Sorrento,1
+Chess,Undirected,Thumb,1
+Daito,Undirected,Harrison,1
+Daito,Undirected,Number Six,3
+Daito,Undirected,Parzival,2
+Daito,Undirected,Photo,1
+Daito,Undirected,Shoto,1
+Daito,Undirected,Sorrento,3
+Daito,Undirected,Wade,3
+Ernie,Undirected,Historian,1
+Ernie,Undirected,Kid,1
+Ernie,Undirected,Wade,1
+Figure,Undirected,Morrow,1
+Figure,Undirected,Sorrento,1
+Figure,Undirected,Wade,1
+Halliday,Undirected,Historian,2
+Halliday,Undirected,Ioi,1
+Halliday,Undirected,Morrow,3
+Halliday,Undirected,Number Six,1
+Halliday,Undirected,Parzival,3
+Halliday,Undirected,Sorrento,2
+Halliday,Undirected,Ten year old girl,1
+Halliday,Undirected,Wade,3
+Harrison,Undirected,Number Six,1
+Harrison,Undirected,Parzival,1
+Harrison,Undirected,Photo,1
+Harrison,Undirected,Sorrento,1
+Harrison,Undirected,Wade,1
+Historian,Undirected,Kid,1
+Historian,Undirected,Morrow,2
+Historian,Undirected,Parzival,2
+Historian,Undirected,Sorrento,1
+Historian,Undirected,Ten year old girl,1
+Historian,Undirected,Wade,3
+Ioi,Undirected,Number Six,1
+Ioi,Undirected,Parzival,2
+Ioi,Undirected,Rick,1
+Ioi,Undirected,Sixer,1
+Ioi,Undirected,Sorrento,2
+Ioi,Undirected,Wade,3
+Kid,Undirected,Wade,1
+Kitt,Undirected,Parzival,1
+Morrow,Undirected,Parzival,2
+Morrow,Undirected,Sorrento,2
+Morrow,Undirected,Ten year old girl,1
+Morrow,Undirected,Wade,3
+Number Six,Undirected,Parzival,4
+Number Six,Undirected,Photo,1
+Number Six,Undirected,Sixer,1
+Number Six,Undirected,Sorrento,6
+Number Six,Undirected,Thumb,1
+Number Six,Undirected,Wade,3
+Parzival,Undirected,Photo,1
+Parzival,Undirected,Shoto Daito,1
+Parzival,Undirected,Sixer,4
+Parzival,Undirected,Sorrento,6
+Parzival,Undirected,Ten year old girl,1
+Parzival,Undirected,Thumb,1
+Parzival,Undirected,Vendor,1
+Parzival,Undirected,Wade,8
+Photo,Undirected,Sorrento,1
+Photo,Undirected,Wade,1
+Reb 2,Undirected,Wade,1
+Reb,Undirected,Reb 2,1
+Reb,Undirected,Wade,1
+Rick,Undirected,Tattoo,1
+Rick,Undirected,Wade,3
+Shoto,Undirected,Wade,1
+Sixer,Undirected,Sorrento,1
+Sixer,Undirected,Thumb,1
+Sixer,Undirected,Wade,1
+Sorrento,Undirected,Ten year old girl,1
+Sorrento,Undirected,Thumb,1
+Sorrento,Undirected,Wade,7
+Tattoo,Undirected,Wade,1
+Ten year old girl,Undirected,Wade,1

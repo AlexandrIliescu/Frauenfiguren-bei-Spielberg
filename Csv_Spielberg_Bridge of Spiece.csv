@@ -1,0 +1,310 @@
+Source,Type,Target,Weight
+Abel,Undirected,Agend,1
+Abel,Undirected,Alison,2
+Abel,Undirected,Announcer,2
+Abel,Undirected,Avalon,1
+Abel,Undirected,Bailiff,2
+Abel,Undirected,Bates,1
+Abel,Undirected,Blasco,1
+Abel,Undirected,Carol,2
+Abel,Undirected,Contact,1
+Abel,Undirected,Cop,1
+Abel,Undirected,Cowan,1
+Abel,Undirected,Donovan,13
+Abel,Undirected,Doug,1
+Abel,Undirected,Exterior Motel,1
+Abel,Undirected,Gamber,1
+Abel,Undirected,Goodnough,1
+Abel,Undirected,Hoffman,3
+Abel,Undirected,Interrogator,1
+Abel,Undirected,Judge Byers,3
+Abel,Undirected,Katje,1
+Abel,Undirected,Lieutenant,1
+Abel,Undirected,Man,3
+Abel,Undirected,Man 1,1
+Abel,Undirected,Man 2,1
+Abel,Undirected,Man 3,1
+Abel,Undirected,Man 4,1
+Abel,Undirected,Marty,1
+Abel,Undirected,Mary,5
+Abel,Undirected,Michener,1
+Abel,Undirected,Millie,1
+Abel,Undirected,Murphy,1
+Abel,Undirected,Narrator,1
+Abel,Undirected,Peggy,1
+Abel,Undirected,Pinker,1
+Abel,Undirected,Powers,7
+Abel,Undirected,Pryor,1
+Abel,Undirected,Receptionist,1
+Abel,Undirected,Roger,4
+Abel,Undirected,Schischkin,2
+Abel,Undirected,Soldier,1
+Abel,Undirected,Tompkins,1
+Abel,Undirected,Translator,1
+Abel,Undirected,Verona,1
+Abel,Undirected,Voice,1
+Abel,Undirected,Watters,3
+Abel,Undirected,Williams,1
+Airplane Hangar,Undirected,CIA Agent,1
+Airplane Hangar,Undirected,Donovan,1
+Airplane Hangar,Undirected,Man,1
+Airplane Hangar,Undirected,Williams,1
+Alison,Undirected,Announcer,1
+Alison,Undirected,Bates,1
+Alison,Undirected,Carol,1
+Alison,Undirected,Cowan,1
+Alison,Undirected,Donovan,2
+Alison,Undirected,Doug,1
+Alison,Undirected,Goodnough,1
+Alison,Undirected,Marty,1
+Alison,Undirected,Mary,1
+Alison,Undirected,Peggy,1
+Alison,Undirected,Receptionist,1
+Alison,Undirected,Roger,1
+Alison,Undirected,Watters,2
+Announcer,Undirected,Cowan,1
+Announcer,Undirected,Donovan,2
+Announcer,Undirected,Marty,1
+Announcer,Undirected,Powers,1
+Announcer,Undirected,Watters,1
+Avalon,Undirected,Contact,1
+Avalon,Undirected,Donovan,1
+Avalon,Undirected,Hoffman,1
+Avalon,Undirected,Murphy,1
+Avalon,Undirected,Pinker,1
+Avalon,Undirected,Powers,1
+Avalon,Undirected,Schischkin,1
+Avalon,Undirected,Verona,1
+Bailiff,Undirected,Donovan,2
+Bailiff,Undirected,Judge Byers,2
+Bailiff,Undirected,Man,1
+Bailiff,Undirected,Mary,1
+Bailiff,Undirected,Narrator,1
+Bailiff,Undirected,Roger,1
+Bailiff,Undirected,Tompkins,1
+Bailiff,Undirected,Watters,1
+Bates,Undirected,Carol,1
+Bates,Undirected,Donovan,1
+Bates,Undirected,Doug,1
+Bates,Undirected,Goodnough,1
+Bates,Undirected,Mary,1
+Bates,Undirected,Peggy,1
+Bates,Undirected,Receptionist,1
+Bates,Undirected,Roger,1
+Bates,Undirected,Watters,1
+Blasco,Undirected,Donovan,2
+Blasco,Undirected,Doug,1
+Blasco,Undirected,Gamber,1
+Blasco,Undirected,Judge Byers,1
+CIA Agent,Undirected,Donovan,1
+CIA Agent,Undirected,Man,1
+CIA Agent,Undirected,Williams,1
+Carol,Undirected,Donovan,2
+Carol,Undirected,Doug,1
+Carol,Undirected,Goodnough,1
+Carol,Undirected,Mary,2
+Carol,Undirected,Peggy,1
+Carol,Undirected,Receptionist,1
+Carol,Undirected,Roger,2
+Carol,Undirected,Watters,1
+Clerk,Undirected,Donovan,1
+Clerk,Undirected,Foreman,1
+Clerk,Undirected,Judge Byers,1
+Contact,Undirected,Donovan,1
+Contact,Undirected,Hoffman,1
+Contact,Undirected,Murphy,1
+Contact,Undirected,Pinker,1
+Contact,Undirected,Powers,1
+Contact,Undirected,Schischkin,1
+Contact,Undirected,Verona,1
+Cop,Undirected,Donovan,1
+Cop,Undirected,Lieutenant,1
+Cop,Undirected,Mary,1
+Cop,Undirected,Powers,1
+Cop,Undirected,Roger,1
+Cop,Undirected,Williams,1
+Cowan,Undirected,Donovan,1
+Cowan,Undirected,Marty,1
+Cowan,Undirected,Watters,1
+Donovan,Undirected,Doug,2
+Donovan,Undirected,Drews,1
+Donovan,Undirected,Dulles,1
+Donovan,Undirected,Exterior Motel,1
+Donovan,Undirected,Foreman,1
+Donovan,Undirected,Goodnough,1
+Donovan,Undirected,Guard,1
+Donovan,Undirected,Head Youth,1
+Donovan,Undirected,Helen,1
+Donovan,Undirected,Hoffman,8
+Donovan,Undirected,Interrogator,1
+Donovan,Undirected,Judge Byers,6
+Donovan,Undirected,Katje,2
+Donovan,Undirected,Lieutenant,1
+Donovan,Undirected,Lydia,1
+Donovan,Undirected,Man,6
+Donovan,Undirected,Marty,1
+Donovan,Undirected,Mary,5
+Donovan,Undirected,Michener,1
+Donovan,Undirected,Millie,1
+Donovan,Undirected,Murphy,1
+Donovan,Undirected,Narrator,1
+Donovan,Undirected,Official,1
+Donovan,Undirected,Ott,1
+Donovan,Undirected,Peggy,1
+Donovan,Undirected,Pinker,1
+Donovan,Undirected,Police Officer,1
+Donovan,Undirected,Powers,7
+Donovan,Undirected,Pryor,2
+Donovan,Undirected,Receptionist,2
+Donovan,Undirected,Roger,4
+Donovan,Undirected,Schischkin,3
+Donovan,Undirected,Secretary,2
+Donovan,Undirected,Soldier,1
+Donovan,Undirected,Tompkins,2
+Donovan,Undirected,Verona,1
+Donovan,Undirected,Vogel,2
+Donovan,Undirected,Waitress,1
+Donovan,Undirected,Watters,3
+Donovan,Undirected,Wide,1
+Donovan,Undirected,Williams,2
+Donovan,Undirected,Woman,1
+Doug,Undirected,Goodnough,1
+Doug,Undirected,Mary,1
+Doug,Undirected,Peggy,1
+Doug,Undirected,Receptionist,1
+Doug,Undirected,Roger,1
+Doug,Undirected,Watters,1
+Drews,Undirected,Head Youth,1
+Drews,Undirected,Helen,1
+Drews,Undirected,Receptionist,1
+Drews,Undirected,Wide,1
+Drews,Undirected,Woman,1
+Dulles,Undirected,Hoffman,1
+Exterior Motel,Undirected,Interrogator,1
+Exterior Motel,Undirected,Man,1
+Exterior Motel,Undirected,Powers,1
+Foreman,Undirected,Judge Byers,1
+Goodnough,Undirected,Mary,1
+Goodnough,Undirected,Peggy,1
+Goodnough,Undirected,Receptionist,1
+Goodnough,Undirected,Roger,1
+Goodnough,Undirected,Watters,1
+Guard,Undirected,Police Officer,1
+Guard,Undirected,Vogel,1
+Head Youth,Undirected,Helen,1
+Head Youth,Undirected,Receptionist,1
+Head Youth,Undirected,Wide,1
+Head Youth,Undirected,Woman,1
+Helen,Undirected,Receptionist,1
+Helen,Undirected,Wide,1
+Helen,Undirected,Woman,1
+Hoffman,Undirected,Katje,2
+Hoffman,Undirected,Man,1
+Hoffman,Undirected,Mary,1
+Hoffman,Undirected,Michener,1
+Hoffman,Undirected,Murphy,1
+Hoffman,Undirected,Official,1
+Hoffman,Undirected,Pinker,1
+Hoffman,Undirected,Powers,4
+Hoffman,Undirected,Pryor,2
+Hoffman,Undirected,Schischkin,1
+Hoffman,Undirected,Secretary,1
+Hoffman,Undirected,Soldier,1
+Hoffman,Undirected,Verona,1
+Interrogator,Undirected,Man,1
+Interrogator,Undirected,Powers,1
+Judge Byers,Undirected,Man,2
+Judge Byers,Undirected,Mary,1
+Judge Byers,Undirected,Millie,1
+Judge Byers,Undirected,Narrator,1
+Judge Byers,Undirected,Roger,1
+Judge Byers,Undirected,Tompkins,2
+Judge Byers,Undirected,Watters,1
+Katje,Undirected,Mary,1
+Katje,Undirected,Michener,1
+Katje,Undirected,Official,1
+Katje,Undirected,Powers,1
+Katje,Undirected,Pryor,2
+Katje,Undirected,Soldier,1
+Lieutenant,Undirected,Mary,1
+Lieutenant,Undirected,Powers,1
+Lieutenant,Undirected,Roger,1
+Lieutenant,Undirected,Williams,1
+Lydia,Undirected,Man,1
+Lydia,Undirected,Schischkin,1
+Man 1,Undirected,Man 2,1
+Man 1,Undirected,Man 3,1
+Man 1,Undirected,Man 4,1
+Man 1,Undirected,Powers,1
+Man 1,Undirected,Schischkin,1
+Man 1,Undirected,Voice,1
+Man 2,Undirected,Man 3,1
+Man 2,Undirected,Man 4,1
+Man 2,Undirected,Powers,1
+Man 2,Undirected,Schischkin,1
+Man 2,Undirected,Voice,1
+Man 3,Undirected,Man 4,1
+Man 3,Undirected,Powers,1
+Man 3,Undirected,Schischkin,1
+Man 3,Undirected,Voice,1
+Man 4,Undirected,Powers,1
+Man 4,Undirected,Schischkin,1
+Man 4,Undirected,Voice,1
+Man,Undirected,Man 1,1
+Man,Undirected,Man 2,1
+Man,Undirected,Man 3,1
+Man,Undirected,Man 4,1
+Man,Undirected,Mary,1
+Man,Undirected,Powers,3
+Man,Undirected,Schischkin,2
+Man,Undirected,Tompkins,1
+Man,Undirected,Voice,1
+Man,Undirected,Watters,1
+Man,Undirected,Williams,1
+Marty,Undirected,Watters,1
+Mary,Undirected,Michener,1
+Mary,Undirected,Peggy,1
+Mary,Undirected,Powers,2
+Mary,Undirected,Pryor,1
+Mary,Undirected,Receptionist,1
+Mary,Undirected,Roger,3
+Mary,Undirected,Soldier,1
+Mary,Undirected,Watters,2
+Mary,Undirected,Williams,1
+Michener,Undirected,Powers,1
+Michener,Undirected,Pryor,1
+Michener,Undirected,Soldier,1
+Murphy,Undirected,Pinker,1
+Murphy,Undirected,Powers,2
+Murphy,Undirected,Schischkin,1
+Murphy,Undirected,Verona,1
+Murphy,Undirected,Williams,1
+Narrator,Undirected,Roger,1
+Narrator,Undirected,Tompkins,1
+Official,Undirected,Pryor,1
+Peggy,Undirected,Receptionist,1
+Peggy,Undirected,Roger,1
+Peggy,Undirected,Watters,1
+Pinker,Undirected,Powers,1
+Pinker,Undirected,Schischkin,1
+Pinker,Undirected,Verona,1
+Police Officer,Undirected,Vogel,1
+Powers,Undirected,Pryor,1
+Powers,Undirected,Roger,1
+Powers,Undirected,Schischkin,2
+Powers,Undirected,Soldier,1
+Powers,Undirected,Verona,1
+Powers,Undirected,Voice,1
+Powers,Undirected,Williams,2
+Pryor,Undirected,Soldier,1
+Receptionist,Undirected,Roger,1
+Receptionist,Undirected,Watters,1
+Receptionist,Undirected,Wide,1
+Receptionist,Undirected,Woman,1
+Roger,Undirected,Tompkins,1
+Roger,Undirected,Watters,1
+Roger,Undirected,Williams,1
+Schischkin,Undirected,Secretary,1
+Schischkin,Undirected,Verona,1
+Schischkin,Undirected,Voice,1
+Wide,Undirected,Woman,1

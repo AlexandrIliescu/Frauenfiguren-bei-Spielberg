@@ -1,0 +1,801 @@
+Source,Type,Target,Weight
+Aaron Haddam,Undirected,Arthur Bentleigh,1
+Aaron Haddam,Undirected,Asa Vintner Litton,2
+Aaron Haddam,Undirected,Augustus Benjamin,1
+Aaron Haddam,Undirected,Blairs,1
+Aaron Haddam,Undirected,Democratic Senator,1
+Aaron Haddam,Undirected,Elizabeth Keckley,2
+Aaron Haddam,Undirected,Fernando Wood,1
+Aaron Haddam,Undirected,George Pendleton,2
+Aaron Haddam,Undirected,Harold Hollister,1
+Aaron Haddam,Undirected,Hay,1
+Aaron Haddam,Undirected,James Ashley,2
+Aaron Haddam,Undirected,John Ellis,1
+Aaron Haddam,Undirected,John Nicolay,1
+Aaron Haddam,Undirected,Josiah Burton,1
+Aaron Haddam,Undirected,Mary,2
+Aaron Haddam,Undirected,Nehemiah Cleary,1
+Aaron Haddam,Undirected,Robert Latham,1
+Aaron Haddam,Undirected,Schuyler Colfax,1
+Aaron Haddam,Undirected,Schüler Colfax,1
+Aaron Haddam,Undirected,Stephens,1
+Aaron Haddam,Undirected,Thaddeus Stevens,2
+Aaron Haddam,Undirected,The Clerk of the House,1
+Aaron Haddam,Undirected,W.N. Bilbo,1
+Aaron Haddam,Undirected,Walter Appleton,1
+Aaron Haddam,Undirected,William Hutton,1
+Alexander Coffroth,Undirected,Andrew E. Fink,1
+Alexander Coffroth,Undirected,Avon Hanready,1
+Alexander Coffroth,Undirected,Chilton A. Elliot,1
+Alexander Coffroth,Undirected,Daniel G. Stuart,1
+Alexander Coffroth,Undirected,Edwin Leclerk,1
+Alexander Coffroth,Undirected,Fernando Wood,1
+Alexander Coffroth,Undirected,George Yeaman,1
+Alexander Coffroth,Undirected,Howard Guilefoyle,1
+Alexander Coffroth,Undirected,John A. Kassim,1
+Alexander Coffroth,Undirected,John F. Mckenzie,1
+Alexander Coffroth,Undirected,Joseph Marstern,1
+Alexander Coffroth,Undirected,Lincoln,1
+Alexander Coffroth,Undirected,Mary,1
+Alexander Coffroth,Undirected,Meyer Straus,1
+Alexander Coffroth,Undirected,Robert,1
+Alexander Coffroth,Undirected,Rufus Warren,1
+Alexander Coffroth,Undirected,Schuyler Colfax,1
+Alexander Coffroth,Undirected,Sergeant,1
+Alexander Coffroth,Undirected,Soldier,1
+Alexander Coffroth,Undirected,Stephens,1
+Alexander Coffroth,Undirected,Thaddeus Stevens,2
+Alexander Coffroth,Undirected,The Clerk of the House,1
+Alexander Coffroth,Undirected,W.N. Bilbo,1
+Alexander Coffroth,Undirected,Walter H. Washburn,1
+Alexander Stephens,Undirected,Grant,1
+Alexander Stephens,Undirected,Hunter,1
+Alexander Stephens,Undirected,John A. Campbell,1
+Alexander Stephens,Undirected,John. A. Champbell,1
+Alexander Stephens,Undirected,Lincoln,1
+Alexander Stephens,Undirected,R.M.T. Hunter,2
+Alexander Stephens,Undirected,Seward,1
+Alexander Stephens,Undirected,Stephens,2
+Andrew E. Fink,Undirected,Avon Hanready,1
+Andrew E. Fink,Undirected,Chilton A. Elliot,1
+Andrew E. Fink,Undirected,Daniel G. Stuart,1
+Andrew E. Fink,Undirected,Edwin Leclerk,1
+Andrew E. Fink,Undirected,Fernando Wood,1
+Andrew E. Fink,Undirected,George Yeaman,1
+Andrew E. Fink,Undirected,Howard Guilefoyle,1
+Andrew E. Fink,Undirected,John A. Kassim,1
+Andrew E. Fink,Undirected,John F. Mckenzie,1
+Andrew E. Fink,Undirected,Joseph Marstern,1
+Andrew E. Fink,Undirected,Lincoln,1
+Andrew E. Fink,Undirected,Mary,1
+Andrew E. Fink,Undirected,Meyer Straus,1
+Andrew E. Fink,Undirected,Robert,1
+Andrew E. Fink,Undirected,Rufus Warren,1
+Andrew E. Fink,Undirected,Schuyler Colfax,1
+Andrew E. Fink,Undirected,Sergeant,1
+Andrew E. Fink,Undirected,Soldier,1
+Andrew E. Fink,Undirected,Stephens,1
+Andrew E. Fink,Undirected,Thaddeus Stevens,1
+Andrew E. Fink,Undirected,The Clerk of the House,1
+Andrew E. Fink,Undirected,W.N. Bilbo,1
+Andrew E. Fink,Undirected,Walter H. Washburn,1
+Army Surgeon,Undirected,First Patient,1
+Army Surgeon,Undirected,Fourth Patient,1
+Army Surgeon,Undirected,Lincoln,1
+Army Surgeon,Undirected,Second Patient,1
+Army Surgeon,Undirected,Third Patient,1
+Arthur Bentleigh,Undirected,Asa Vintner Litton,1
+Arthur Bentleigh,Undirected,Augustus Benjamin,1
+Arthur Bentleigh,Undirected,Democratic Senator,1
+Arthur Bentleigh,Undirected,Elizabeth Keckley,1
+Arthur Bentleigh,Undirected,George Pendleton,1
+Arthur Bentleigh,Undirected,Harold Hollister,1
+Arthur Bentleigh,Undirected,James Ashley,1
+Arthur Bentleigh,Undirected,John Ellis,1
+Arthur Bentleigh,Undirected,Josiah Burton,1
+Arthur Bentleigh,Undirected,Mary,1
+Arthur Bentleigh,Undirected,Nehemiah Cleary,1
+Arthur Bentleigh,Undirected,Schuyler Colfax,1
+Arthur Bentleigh,Undirected,Stephens,1
+Arthur Bentleigh,Undirected,Thaddeus Stevens,1
+Arthur Bentleigh,Undirected,The Clerk of the House,1
+Arthur Bentleigh,Undirected,Walter Appleton,1
+Arthur Bentleigh,Undirected,William Hutton,1
+Asa Vintner Litton,Undirected,Augustus Benjamin,1
+Asa Vintner Litton,Undirected,Blairs,1
+Asa Vintner Litton,Undirected,Bluff Wade,1
+Asa Vintner Litton,Undirected,Democratic Senator,1
+Asa Vintner Litton,Undirected,Elizabeth Keckley,2
+Asa Vintner Litton,Undirected,Fernando Wood,2
+Asa Vintner Litton,Undirected,George Pendleton,3
+Asa Vintner Litton,Undirected,George Yeaman,1
+Asa Vintner Litton,Undirected,Harold Hollister,1
+Asa Vintner Litton,Undirected,Hay,1
+Asa Vintner Litton,Undirected,James Ashley,3
+Asa Vintner Litton,Undirected,John Ellis,1
+Asa Vintner Litton,Undirected,John Nicolay,1
+Asa Vintner Litton,Undirected,Josiah Burton,1
+Asa Vintner Litton,Undirected,Mary,2
+Asa Vintner Litton,Undirected,Nehemiah Cleary,1
+Asa Vintner Litton,Undirected,Richard Schell,1
+Asa Vintner Litton,Undirected,Robert Latham,2
+Asa Vintner Litton,Undirected,Schuyler Colfax,3
+Asa Vintner Litton,Undirected,Schüler Colfax,1
+Asa Vintner Litton,Undirected,Stephens,1
+Asa Vintner Litton,Undirected,Thaddeus Stevens,4
+Asa Vintner Litton,Undirected,The Clerk of the House,1
+Asa Vintner Litton,Undirected,W.N. Bilbo,2
+Asa Vintner Litton,Undirected,Walter Appleton,1
+Asa Vintner Litton,Undirected,William Hutton,1
+Ashley,Undirected,Bluff Wade,1
+Ashley,Undirected,Charles Sumner,1
+Ashley,Undirected,James Ashley,1
+Ashley,Undirected,Lincoln,1
+Ashley,Undirected,Mary,1
+Ashley,Undirected,Robert,1
+Ashley,Undirected,Stevens,1
+Ashley,Undirected,Thaddeus Stevens,1
+Ashley,Undirected,William Slade,1
+Audience,Undirected,Lincoln,1
+Augustus Benjamin,Undirected,Democratic Senator,1
+Augustus Benjamin,Undirected,Elizabeth Keckley,1
+Augustus Benjamin,Undirected,George Pendleton,1
+Augustus Benjamin,Undirected,Harold Hollister,1
+Augustus Benjamin,Undirected,James Ashley,1
+Augustus Benjamin,Undirected,John Ellis,1
+Augustus Benjamin,Undirected,Josiah Burton,1
+Augustus Benjamin,Undirected,Mary,1
+Augustus Benjamin,Undirected,Nehemiah Cleary,1
+Augustus Benjamin,Undirected,Schuyler Colfax,1
+Augustus Benjamin,Undirected,Stephens,1
+Augustus Benjamin,Undirected,Thaddeus Stevens,1
+Augustus Benjamin,Undirected,The Clerk of the House,1
+Augustus Benjamin,Undirected,Walter Appleton,1
+Augustus Benjamin,Undirected,William Hutton,1
+Avon Hanready,Undirected,Chilton A. Elliot,1
+Avon Hanready,Undirected,Daniel G. Stuart,1
+Avon Hanready,Undirected,Edwin Leclerk,1
+Avon Hanready,Undirected,Fernando Wood,1
+Avon Hanready,Undirected,George Yeaman,1
+Avon Hanready,Undirected,Howard Guilefoyle,1
+Avon Hanready,Undirected,John A. Kassim,1
+Avon Hanready,Undirected,John F. Mckenzie,1
+Avon Hanready,Undirected,Joseph Marstern,1
+Avon Hanready,Undirected,Lincoln,1
+Avon Hanready,Undirected,Mary,1
+Avon Hanready,Undirected,Meyer Straus,1
+Avon Hanready,Undirected,Robert,1
+Avon Hanready,Undirected,Rufus Warren,1
+Avon Hanready,Undirected,Schuyler Colfax,1
+Avon Hanready,Undirected,Sergeant,1
+Avon Hanready,Undirected,Soldier,1
+Avon Hanready,Undirected,Stephens,1
+Avon Hanready,Undirected,Thaddeus Stevens,1
+Avon Hanready,Undirected,The Clerk of the House,1
+Avon Hanready,Undirected,W.N. Bilbo,1
+Avon Hanready,Undirected,Walter H. Washburn,1
+Blairs,Undirected,Elizabeth Keckley,1
+Blairs,Undirected,Fernando Wood,1
+Blairs,Undirected,George Pendleton,1
+Blairs,Undirected,Hay,1
+Blairs,Undirected,James Ashley,1
+Blairs,Undirected,John Nicolay,1
+Blairs,Undirected,Mary,1
+Blairs,Undirected,Robert Latham,1
+Blairs,Undirected,Schüler Colfax,1
+Blairs,Undirected,Thaddeus Stevens,1
+Blairs,Undirected,W.N. Bilbo,1
+Bluff Wade,Undirected,Charles Sumner,1
+Bluff Wade,Undirected,James Ashley,2
+Bluff Wade,Undirected,Lincoln,1
+Bluff Wade,Undirected,Mary,1
+Bluff Wade,Undirected,Robert,1
+Bluff Wade,Undirected,Schuyler Colfax,1
+Bluff Wade,Undirected,Stevens,1
+Bluff Wade,Undirected,Thaddeus Stevens,2
+Bluff Wade,Undirected,William Slade,1
+Charles Benjamin,Undirected,Lincoln,1
+Charles Benjamin,Undirected,Major Eckert,1
+Charles Benjamin,Undirected,Stanton,1
+Charles Benjamin,Undirected,Welles Major Eckert,1
+Charles Sumner,Undirected,James Ashley,1
+Charles Sumner,Undirected,Lincoln,1
+Charles Sumner,Undirected,Mary,1
+Charles Sumner,Undirected,Robert,1
+Charles Sumner,Undirected,Stevens,1
+Charles Sumner,Undirected,Thaddeus Stevens,1
+Charles Sumner,Undirected,William Slade,1
+Chilton A. Elliot,Undirected,Daniel G. Stuart,1
+Chilton A. Elliot,Undirected,Edwin Leclerk,1
+Chilton A. Elliot,Undirected,Fernando Wood,1
+Chilton A. Elliot,Undirected,George Yeaman,1
+Chilton A. Elliot,Undirected,Howard Guilefoyle,1
+Chilton A. Elliot,Undirected,John A. Kassim,1
+Chilton A. Elliot,Undirected,John F. Mckenzie,1
+Chilton A. Elliot,Undirected,Joseph Marstern,1
+Chilton A. Elliot,Undirected,Lincoln,1
+Chilton A. Elliot,Undirected,Mary,1
+Chilton A. Elliot,Undirected,Meyer Straus,1
+Chilton A. Elliot,Undirected,Robert,1
+Chilton A. Elliot,Undirected,Rufus Warren,1
+Chilton A. Elliot,Undirected,Schuyler Colfax,1
+Chilton A. Elliot,Undirected,Sergeant,1
+Chilton A. Elliot,Undirected,Soldier,1
+Chilton A. Elliot,Undirected,Stephens,1
+Chilton A. Elliot,Undirected,Thaddeus Stevens,1
+Chilton A. Elliot,Undirected,The Clerk of the House,1
+Chilton A. Elliot,Undirected,W.N. Bilbo,1
+Chilton A. Elliot,Undirected,Walter H. Washburn,1
+Clay Hawkins,Undirected,W.N. Bilbo,1
+Clay Hawkkins,Undirected,John Nicolay,1
+Clay Hawkkins,Undirected,Lincoln,1
+Clay Hawkkins,Undirected,Seward,1
+Clay Hawkkins,Undirected,W.N. Bilbo,1
+Daniel G. Stuart,Undirected,Edwin Leclerk,1
+Daniel G. Stuart,Undirected,Fernando Wood,1
+Daniel G. Stuart,Undirected,George Yeaman,1
+Daniel G. Stuart,Undirected,Howard Guilefoyle,1
+Daniel G. Stuart,Undirected,John A. Kassim,1
+Daniel G. Stuart,Undirected,John F. Mckenzie,1
+Daniel G. Stuart,Undirected,Joseph Marstern,1
+Daniel G. Stuart,Undirected,Lincoln,1
+Daniel G. Stuart,Undirected,Mary,1
+Daniel G. Stuart,Undirected,Meyer Straus,1
+Daniel G. Stuart,Undirected,Robert,1
+Daniel G. Stuart,Undirected,Rufus Warren,1
+Daniel G. Stuart,Undirected,Schuyler Colfax,1
+Daniel G. Stuart,Undirected,Sergeant,1
+Daniel G. Stuart,Undirected,Soldier,1
+Daniel G. Stuart,Undirected,Stephens,1
+Daniel G. Stuart,Undirected,Thaddeus Stevens,1
+Daniel G. Stuart,Undirected,The Clerk of the House,1
+Daniel G. Stuart,Undirected,W.N. Bilbo,1
+Daniel G. Stuart,Undirected,Walter H. Washburn,1
+Democratic Senator,Undirected,Elizabeth Keckley,1
+Democratic Senator,Undirected,George Pendleton,1
+Democratic Senator,Undirected,Harold Hollister,1
+Democratic Senator,Undirected,James Ashley,1
+Democratic Senator,Undirected,John Ellis,1
+Democratic Senator,Undirected,Josiah Burton,1
+Democratic Senator,Undirected,Mary,1
+Democratic Senator,Undirected,Nehemiah Cleary,1
+Democratic Senator,Undirected,Schuyler Colfax,1
+Democratic Senator,Undirected,Stephens,1
+Democratic Senator,Undirected,Thaddeus Stevens,1
+Democratic Senator,Undirected,The Clerk of the House,1
+Democratic Senator,Undirected,Walter Appleton,1
+Democratic Senator,Undirected,William Hutton,1
+Dr. Charles,Undirected,General Henry Halleck,1
+Dr. Charles,Undirected,Lincoln,1
+Dr. Charles,Undirected,Mary,1
+Dr. Charles,Undirected,Minister,1
+Dr. Charles,Undirected,Robert,1
+Dr. Charles,Undirected,Stanton,1
+Edwin Leclerk,Undirected,Fernando Wood,1
+Edwin Leclerk,Undirected,George Yeaman,1
+Edwin Leclerk,Undirected,Howard Guilefoyle,1
+Edwin Leclerk,Undirected,John A. Kassim,1
+Edwin Leclerk,Undirected,John F. Mckenzie,1
+Edwin Leclerk,Undirected,Joseph Marstern,1
+Edwin Leclerk,Undirected,Lincoln,1
+Edwin Leclerk,Undirected,Mary,1
+Edwin Leclerk,Undirected,Meyer Straus,1
+Edwin Leclerk,Undirected,Robert,1
+Edwin Leclerk,Undirected,Rufus Warren,1
+Edwin Leclerk,Undirected,Schuyler Colfax,1
+Edwin Leclerk,Undirected,Sergeant,1
+Edwin Leclerk,Undirected,Soldier,1
+Edwin Leclerk,Undirected,Stephens,1
+Edwin Leclerk,Undirected,Thaddeus Stevens,1
+Edwin Leclerk,Undirected,The Clerk of the House,1
+Edwin Leclerk,Undirected,W.N. Bilbo,1
+Edwin Leclerk,Undirected,Walter H. Washburn,1
+Elizabeth Blair Lee,Undirected,Leo,1
+Elizabeth Blair Lee,Undirected,Lincoln,1
+Elizabeth Blair Lee,Undirected,Montgomery Blair,1
+Elizabeth Blair Lee,Undirected,Mr. Jolly,1
+Elizabeth Blair Lee,Undirected,Mrs. Jolly,1
+Elizabeth Blair Lee,Undirected,Nicolay,1
+Elizabeth Blair Lee,Undirected,Preston Blair,2
+Elizabeth Blair Lee,Undirected,Seward,1
+Elizabeth Blair Lee,Undirected,Tad,1
+Elizabeth Keckley,Undirected,Fernando Wood,3
+Elizabeth Keckley,Undirected,George Pedleton,1
+Elizabeth Keckley,Undirected,George Pendleton,3
+Elizabeth Keckley,Undirected,Harold Hollister,1
+Elizabeth Keckley,Undirected,Hay,1
+Elizabeth Keckley,Undirected,Hiram Prince,1
+Elizabeth Keckley,Undirected,James Ashley,4
+Elizabeth Keckley,Undirected,John Ellis,2
+Elizabeth Keckley,Undirected,John Hay,1
+Elizabeth Keckley,Undirected,John Nicolay,1
+Elizabeth Keckley,Undirected,Josiah Burton,1
+Elizabeth Keckley,Undirected,Lincoln,3
+Elizabeth Keckley,Undirected,Mary,5
+Elizabeth Keckley,Undirected,Nehemiah Cleary,1
+Elizabeth Keckley,Undirected,Richard Schell,2
+Elizabeth Keckley,Undirected,Robert,1
+Elizabeth Keckley,Undirected,Robert Latham,3
+Elizabeth Keckley,Undirected,Schuyler Colfax,2
+Elizabeth Keckley,Undirected,Schüler Colfax,2
+Elizabeth Keckley,Undirected,Seward,1
+Elizabeth Keckley,Undirected,Stephens,1
+Elizabeth Keckley,Undirected,Tad,1
+Elizabeth Keckley,Undirected,Thaddeus Stevens,4
+Elizabeth Keckley,Undirected,The Clerk of the House,1
+Elizabeth Keckley,Undirected,W.N. Bilbo,3
+Elizabeth Keckley,Undirected,Walter Appleton,1
+Elizabeth Keckley,Undirected,William Hutton,1
+Elizabeth Keckley,Undirected,William Slade,1
+Fernando Wood,Undirected,George Pedleton,1
+Fernando Wood,Undirected,George Pendleton,4
+Fernando Wood,Undirected,George Yeaman,2
+Fernando Wood,Undirected,Hay,1
+Fernando Wood,Undirected,Hiram Prince,1
+Fernando Wood,Undirected,Howard Guilefoyle,1
+Fernando Wood,Undirected,James Ashley,3
+Fernando Wood,Undirected,John A. Kassim,1
+Fernando Wood,Undirected,John Ellis,1
+Fernando Wood,Undirected,John F. Mckenzie,1
+Fernando Wood,Undirected,John Nicolay,1
+Fernando Wood,Undirected,Joseph Marstern,1
+Fernando Wood,Undirected,Lincoln,1
+Fernando Wood,Undirected,Mary,4
+Fernando Wood,Undirected,Meyer Straus,1
+Fernando Wood,Undirected,Richard Schell,2
+Fernando Wood,Undirected,Robert,1
+Fernando Wood,Undirected,Robert Latham,3
+Fernando Wood,Undirected,Rufus Warren,1
+Fernando Wood,Undirected,Schuyler Colfax,2
+Fernando Wood,Undirected,Schüler Colfax,2
+Fernando Wood,Undirected,Sergeant,1
+Fernando Wood,Undirected,Soldier,1
+Fernando Wood,Undirected,Stephens,1
+Fernando Wood,Undirected,Thaddeus Stevens,4
+Fernando Wood,Undirected,The Clerk of the House,1
+Fernando Wood,Undirected,W.N. Bilbo,4
+Fernando Wood,Undirected,Walter H. Washburn,1
+First Patient,Undirected,Fourth Patient,1
+First Patient,Undirected,Lincoln,1
+First Patient,Undirected,Second Patient,1
+First Patient,Undirected,Third Patient,1
+First white Soldier,Undirected,Harold Green,1
+First white Soldier,Undirected,Ira Clark,1
+First white Soldier,Undirected,Lincoln,1
+First white Soldier,Undirected,Second white Soldier,1
+Fourth Patient,Undirected,Lincoln,1
+Fourth Patient,Undirected,Second Patient,1
+Fourth Patient,Undirected,Third Patient,1
+General Henry Halleck,Undirected,Lincoln,1
+General Henry Halleck,Undirected,Mary,1
+General Henry Halleck,Undirected,Minister,1
+General Henry Halleck,Undirected,Robert,1
+General Henry Halleck,Undirected,Stanton,1
+George Pedleton,Undirected,James Ashley,1
+George Pedleton,Undirected,Mary,1
+George Pedleton,Undirected,Schüler Colfax,1
+George Pedleton,Undirected,Thaddeus Stevens,1
+George Pendleton,Undirected,George Yeaman,1
+George Pendleton,Undirected,Harold Hollister,1
+George Pendleton,Undirected,Hay,1
+George Pendleton,Undirected,Hiram Prince,1
+George Pendleton,Undirected,James Ashley,3
+George Pendleton,Undirected,John Ellis,2
+George Pendleton,Undirected,John Nicolay,1
+George Pendleton,Undirected,Josiah Burton,1
+George Pendleton,Undirected,Lincoln,1
+George Pendleton,Undirected,Mary,4
+George Pendleton,Undirected,Nehemiah Cleary,1
+George Pendleton,Undirected,Richard Schell,2
+George Pendleton,Undirected,Robert Latham,3
+George Pendleton,Undirected,Schuyler Colfax,3
+George Pendleton,Undirected,Schüler Colfax,1
+George Pendleton,Undirected,Stephens,1
+George Pendleton,Undirected,Thaddeus Stevens,3
+George Pendleton,Undirected,The Clerk of the House,2
+George Pendleton,Undirected,W.N. Bilbo,3
+George Pendleton,Undirected,Walter Appleton,1
+George Pendleton,Undirected,William Hutton,1
+George Yeaman,Undirected,Howard Guilefoyle,1
+George Yeaman,Undirected,John A. Kassim,1
+George Yeaman,Undirected,John F. Mckenzie,1
+George Yeaman,Undirected,Joseph Marstern,1
+George Yeaman,Undirected,Lincoln,2
+George Yeaman,Undirected,Mary,1
+George Yeaman,Undirected,Meyer Straus,1
+George Yeaman,Undirected,Richard Schell,1
+George Yeaman,Undirected,Robert,1
+George Yeaman,Undirected,Robert Latham,1
+George Yeaman,Undirected,Rufus Warren,1
+George Yeaman,Undirected,Schuyler Colfax,2
+George Yeaman,Undirected,Sergeant,1
+George Yeaman,Undirected,Soldier,1
+George Yeaman,Undirected,Stephens,1
+George Yeaman,Undirected,Thaddeus Stevens,1
+George Yeaman,Undirected,The Clerk of the House,1
+George Yeaman,Undirected,W.N. Bilbo,2
+George Yeaman,Undirected,Walter H. Washburn,1
+Grant,Undirected,Lincoln,2
+Grant,Undirected,R.M.T. Hunter,1
+Grant,Undirected,Robert E. Lee,1
+Harold Green,Undirected,Ira Clark,1
+Harold Green,Undirected,Lincoln,1
+Harold Green,Undirected,Second white Soldier,1
+Harold Hollister,Undirected,James Ashley,1
+Harold Hollister,Undirected,John Ellis,1
+Harold Hollister,Undirected,Josiah Burton,1
+Harold Hollister,Undirected,Mary,1
+Harold Hollister,Undirected,Nehemiah Cleary,1
+Harold Hollister,Undirected,Schuyler Colfax,1
+Harold Hollister,Undirected,Stephens,1
+Harold Hollister,Undirected,Thaddeus Stevens,1
+Harold Hollister,Undirected,The Clerk of the House,1
+Harold Hollister,Undirected,Walter Appleton,1
+Harold Hollister,Undirected,William Hutton,1
+Hay,Undirected,James Ashley,1
+Hay,Undirected,John Nicolay,1
+Hay,Undirected,Mary,1
+Hay,Undirected,Robert Latham,1
+Hay,Undirected,Schüler Colfax,1
+Hay,Undirected,Thaddeus Stevens,1
+Hay,Undirected,W.N. Bilbo,1
+Herald,Undirected,James Speed,1
+Herald,Undirected,John Usher,1
+Herald,Undirected,Lincoln,1
+Herald,Undirected,Seward,1
+Herald,Undirected,Stanton,1
+Herald,Undirected,Welles,1
+Herald,Undirected,William,1
+Hiram Prince,Undirected,James Ashley,1
+Hiram Prince,Undirected,John Ellis,1
+Hiram Prince,Undirected,Mary,1
+Hiram Prince,Undirected,Richard Schell,1
+Hiram Prince,Undirected,Robert Latham,1
+Hiram Prince,Undirected,Thaddeus Stevens,1
+Hiram Prince,Undirected,W.N. Bilbo,1
+Homer Bates,Undirected,Lincoln,1
+Homer Bates,Undirected,Samuel Beckwith,1
+Howard Guilefoyle,Undirected,John A. Kassim,1
+Howard Guilefoyle,Undirected,John F. Mckenzie,1
+Howard Guilefoyle,Undirected,Joseph Marstern,1
+Howard Guilefoyle,Undirected,Lincoln,1
+Howard Guilefoyle,Undirected,Mary,1
+Howard Guilefoyle,Undirected,Meyer Straus,1
+Howard Guilefoyle,Undirected,Robert,1
+Howard Guilefoyle,Undirected,Rufus Warren,1
+Howard Guilefoyle,Undirected,Schuyler Colfax,1
+Howard Guilefoyle,Undirected,Sergeant,1
+Howard Guilefoyle,Undirected,Soldier,1
+Howard Guilefoyle,Undirected,Stephens,1
+Howard Guilefoyle,Undirected,Thaddeus Stevens,1
+Howard Guilefoyle,Undirected,The Clerk of the House,1
+Howard Guilefoyle,Undirected,W.N. Bilbo,1
+Howard Guilefoyle,Undirected,Walter H. Washburn,1
+Hunter,Undirected,John. A. Champbell,1
+Hunter,Undirected,Stephens,1
+Ira Clark,Undirected,Lincoln,1
+Ira Clark,Undirected,Second white Soldier,1
+Jacob Graylor,Undirected,Richard Schell,1
+Jacob Graylor,Undirected,Robert Latham,1
+James Ashley,Undirected,John Ellis,2
+James Ashley,Undirected,John Nicolay,1
+James Ashley,Undirected,Josiah Burton,1
+James Ashley,Undirected,Lincoln,4
+James Ashley,Undirected,Mary,5
+James Ashley,Undirected,Nehemiah Cleary,1
+James Ashley,Undirected,Preston Blair,1
+James Ashley,Undirected,Richard Schell,1
+James Ashley,Undirected,Robert,1
+James Ashley,Undirected,Robert Latham,2
+James Ashley,Undirected,Schuyler Colfax,3
+James Ashley,Undirected,Schüler Colfax,2
+James Ashley,Undirected,Seward,2
+James Ashley,Undirected,Stephens,1
+James Ashley,Undirected,Stevens,1
+James Ashley,Undirected,Thaddeus Stevens,6
+James Ashley,Undirected,The Clerk of the House,1
+James Ashley,Undirected,W.N. Bilbo,2
+James Ashley,Undirected,Walter Appleton,1
+James Ashley,Undirected,William Hutton,1
+James Ashley,Undirected,William Slade,2
+James Speed,Undirected,John Usher,1
+James Speed,Undirected,Lincoln,1
+James Speed,Undirected,Seward,1
+James Speed,Undirected,Stanton,1
+James Speed,Undirected,Welles,1
+James Speed,Undirected,William,1
+John A. Campbell,Undirected,Lincoln,1
+John A. Campbell,Undirected,R.M.T. Hunter,1
+John A. Campbell,Undirected,Seward,1
+John A. Campbell,Undirected,Stephens,1
+John A. Kassim,Undirected,John F. Mckenzie,1
+John A. Kassim,Undirected,Joseph Marstern,1
+John A. Kassim,Undirected,Lincoln,1
+John A. Kassim,Undirected,Mary,1
+John A. Kassim,Undirected,Meyer Straus,1
+John A. Kassim,Undirected,Robert,1
+John A. Kassim,Undirected,Rufus Warren,1
+John A. Kassim,Undirected,Schuyler Colfax,1
+John A. Kassim,Undirected,Sergeant,1
+John A. Kassim,Undirected,Soldier,1
+John A. Kassim,Undirected,Stephens,1
+John A. Kassim,Undirected,Thaddeus Stevens,1
+John A. Kassim,Undirected,The Clerk of the House,1
+John A. Kassim,Undirected,W.N. Bilbo,1
+John A. Kassim,Undirected,Walter H. Washburn,1
+John Ellis,Undirected,Josiah Burton,1
+John Ellis,Undirected,Mary,2
+John Ellis,Undirected,Nehemiah Cleary,1
+John Ellis,Undirected,Richard Schell,1
+John Ellis,Undirected,Robert Latham,1
+John Ellis,Undirected,Schuyler Colfax,1
+John Ellis,Undirected,Stephens,1
+John Ellis,Undirected,Thaddeus Stevens,2
+John Ellis,Undirected,The Clerk of the House,1
+John Ellis,Undirected,W.N. Bilbo,1
+John Ellis,Undirected,Walter Appleton,1
+John Ellis,Undirected,William Hutton,1
+John F. Mckenzie,Undirected,Joseph Marstern,1
+John F. Mckenzie,Undirected,Lincoln,1
+John F. Mckenzie,Undirected,Mary,1
+John F. Mckenzie,Undirected,Meyer Straus,1
+John F. Mckenzie,Undirected,Robert,1
+John F. Mckenzie,Undirected,Rufus Warren,1
+John F. Mckenzie,Undirected,Schuyler Colfax,1
+John F. Mckenzie,Undirected,Sergeant,1
+John F. Mckenzie,Undirected,Soldier,1
+John F. Mckenzie,Undirected,Stephens,1
+John F. Mckenzie,Undirected,Thaddeus Stevens,1
+John F. Mckenzie,Undirected,The Clerk of the House,1
+John F. Mckenzie,Undirected,W.N. Bilbo,1
+John F. Mckenzie,Undirected,Walter H. Washburn,1
+John Hay,Undirected,John Nicolay,2
+John Hay,Undirected,Lincoln,3
+John Hay,Undirected,Robert,1
+John Hay,Undirected,Seward,1
+John Hay,Undirected,Tad,2
+John Hay,Undirected,W.N. Bilbo,1
+John Hay,Undirected,William Slade,1
+John Nicolay,Undirected,Lincoln,4
+John Nicolay,Undirected,Mary,2
+John Nicolay,Undirected,Robert Latham,1
+John Nicolay,Undirected,Schüler Colfax,1
+John Nicolay,Undirected,Seward,2
+John Nicolay,Undirected,Tad,1
+John Nicolay,Undirected,Thaddeus Stevens,1
+John Nicolay,Undirected,W.N. Bilbo,3
+John Usher,Undirected,Lincoln,1
+John Usher,Undirected,Seward,1
+John Usher,Undirected,Stanton,1
+John Usher,Undirected,Welles,1
+John Usher,Undirected,William,1
+John. A. Champbell,Undirected,Stephens,1
+Joseph Marstern,Undirected,Lincoln,1
+Joseph Marstern,Undirected,Mary,1
+Joseph Marstern,Undirected,Meyer Straus,1
+Joseph Marstern,Undirected,Robert,1
+Joseph Marstern,Undirected,Rufus Warren,1
+Joseph Marstern,Undirected,Schuyler Colfax,1
+Joseph Marstern,Undirected,Sergeant,1
+Joseph Marstern,Undirected,Soldier,1
+Joseph Marstern,Undirected,Stephens,1
+Joseph Marstern,Undirected,Thaddeus Stevens,1
+Joseph Marstern,Undirected,The Clerk of the House,1
+Joseph Marstern,Undirected,W.N. Bilbo,1
+Joseph Marstern,Undirected,Walter H. Washburn,1
+Josiah Burton,Undirected,Mary,1
+Josiah Burton,Undirected,Nehemiah Cleary,1
+Josiah Burton,Undirected,Schuyler Colfax,1
+Josiah Burton,Undirected,Stephens,1
+Josiah Burton,Undirected,Thaddeus Stevens,1
+Josiah Burton,Undirected,The Clerk of the House,1
+Josiah Burton,Undirected,Walter Appleton,1
+Josiah Burton,Undirected,William Hutton,1
+LeClerk,Undirected,Robert Latham,1
+LeClerk,Undirected,W.N. Bilbo,1
+Leonard Grover,Undirected,Lincoln,1
+Leonard Grover,Undirected,Tad,1
+Leonard Grover,Undirected,Tom Pendel,1
+Leo,Undirected,Preston Blair,1
+Lincoln,Undirected,Major Eckert,1
+Lincoln,Undirected,Mary,9
+Lincoln,Undirected,Meyer Straus,1
+Lincoln,Undirected,Minister,1
+Lincoln,Undirected,Montgomery Blair,1
+Lincoln,Undirected,Mr. Jolly,1
+Lincoln,Undirected,Mrs. Jolly,1
+Lincoln,Undirected,Nicolay,1
+Lincoln,Undirected,Preston Blair,3
+Lincoln,Undirected,R.M.T. Hunter,1
+Lincoln,Undirected,Richard Schell,2
+Lincoln,Undirected,Robert,7
+Lincoln,Undirected,Robert E. Lee,1
+Lincoln,Undirected,Robert Latham,2
+Lincoln,Undirected,Rufus Warren,1
+Lincoln,Undirected,Samuel Beckwith,1
+Lincoln,Undirected,Schuyler Colfax,3
+Lincoln,Undirected,Second Patient,1
+Lincoln,Undirected,Second white Soldier,1
+Lincoln,Undirected,Sergeant,1
+Lincoln,Undirected,Seward,9
+Lincoln,Undirected,Soldier,1
+Lincoln,Undirected,Stanton,3
+Lincoln,Undirected,Stephens,2
+Lincoln,Undirected,Stevens,1
+Lincoln,Undirected,Tad,5
+Lincoln,Undirected,Thaddeus Stevens,4
+Lincoln,Undirected,The Clerk of the House,3
+Lincoln,Undirected,Third Patient,1
+Lincoln,Undirected,Tom Pendel,1
+Lincoln,Undirected,W.N. Bilbo,4
+Lincoln,Undirected,Walter H. Washburn,1
+Lincoln,Undirected,Welles,1
+Lincoln,Undirected,Welles Major Eckert,1
+Lincoln,Undirected,William,1
+Lincoln,Undirected,William Hutton,1
+Lincoln,Undirected,William Slade,3
+Lincoln,Undirected,Willie,1
+Lydia Smith,Undirected,Thaddeus Stevens,1
+Major Eckert,Undirected,Stanton,1
+Major Eckert,Undirected,Welles Major Eckert,1
+Mary,Undirected,Meyer Straus,1
+Mary,Undirected,Minister,1
+Mary,Undirected,Nehemiah Cleary,1
+Mary,Undirected,Petitioner,1
+Mary,Undirected,Richard Schell,2
+Mary,Undirected,Robert,4
+Mary,Undirected,Robert Latham,3
+Mary,Undirected,Rufus Warren,1
+Mary,Undirected,Schuyler Colfax,4
+Mary,Undirected,Schüler Colfax,2
+Mary,Undirected,Sergeant,1
+Mary,Undirected,Seward,1
+Mary,Undirected,Soldier,1
+Mary,Undirected,Stanton,1
+Mary,Undirected,Stephens,2
+Mary,Undirected,Stevens,1
+Mary,Undirected,Tad,1
+Mary,Undirected,Thaddeus Stevens,6
+Mary,Undirected,The Clerk of the House,3
+Mary,Undirected,Tom Pendel,1
+Mary,Undirected,W.N. Bilbo,4
+Mary,Undirected,Walter Appleton,1
+Mary,Undirected,Walter H. Washburn,1
+Mary,Undirected,William Hutton,1
+Mary,Undirected,William Slade,1
+Mary,Undirected,Willie,1
+Meyer Straus,Undirected,Robert,1
+Meyer Straus,Undirected,Rufus Warren,1
+Meyer Straus,Undirected,Schuyler Colfax,1
+Meyer Straus,Undirected,Sergeant,1
+Meyer Straus,Undirected,Soldier,1
+Meyer Straus,Undirected,Stephens,1
+Meyer Straus,Undirected,Thaddeus Stevens,1
+Meyer Straus,Undirected,The Clerk of the House,1
+Meyer Straus,Undirected,W.N. Bilbo,1
+Meyer Straus,Undirected,Walter H. Washburn,1
+Minister,Undirected,Robert,1
+Minister,Undirected,Stanton,1
+Montgomery Blair,Undirected,Mr. Jolly,1
+Montgomery Blair,Undirected,Mrs. Jolly,1
+Montgomery Blair,Undirected,Nicolay,1
+Montgomery Blair,Undirected,Preston Blair,1
+Montgomery Blair,Undirected,Seward,1
+Montgomery Blair,Undirected,Tad,1
+Mr. Jolly,Undirected,Mrs. Jolly,1
+Mr. Jolly,Undirected,Nicolay,1
+Mr. Jolly,Undirected,Preston Blair,1
+Mr. Jolly,Undirected,Seward,1
+Mr. Jolly,Undirected,Tad,1
+Mrs. Jolly,Undirected,Nicolay,1
+Mrs. Jolly,Undirected,Preston Blair,1
+Mrs. Jolly,Undirected,Seward,1
+Mrs. Jolly,Undirected,Tad,1
+Nehemiah Cleary,Undirected,Schuyler Colfax,1
+Nehemiah Cleary,Undirected,Stephens,1
+Nehemiah Cleary,Undirected,Thaddeus Stevens,1
+Nehemiah Cleary,Undirected,The Clerk of the House,1
+Nehemiah Cleary,Undirected,Walter Appleton,1
+Nehemiah Cleary,Undirected,William Hutton,1
+Nicolay,Undirected,Preston Blair,1
+Nicolay,Undirected,Seward,1
+Nicolay,Undirected,Tad,1
+Petitioner,Undirected,Robert,1
+Petitioner,Undirected,Tad,1
+Petitioner,Undirected,Tom Pendel,1
+Preston Blair,Undirected,Robert,1
+Preston Blair,Undirected,Seward,2
+Preston Blair,Undirected,Tad,1
+R.M.T. Hunter,Undirected,Seward,1
+R.M.T. Hunter,Undirected,Stephens,1
+Richard Schell,Undirected,Robert Latham,9
+Richard Schell,Undirected,Schuyler Colfax,2
+Richard Schell,Undirected,Seward,4
+Richard Schell,Undirected,Thaddeus Stevens,2
+Richard Schell,Undirected,The Clerk of the House,1
+Richard Schell,Undirected,W.N. Bilbo,5
+Robert Latham,Undirected,Schuyler Colfax,2
+Robert Latham,Undirected,Schüler Colfax,1
+Robert Latham,Undirected,Seward,6
+Robert Latham,Undirected,Thaddeus Stevens,2
+Robert Latham,Undirected,W.N. Bilbo,9
+Robert,Undirected,Rufus Warren,1
+Robert,Undirected,Schuyler Colfax,1
+Robert,Undirected,Sergeant,1
+Robert,Undirected,Soldier,1
+Robert,Undirected,Stanton,1
+Robert,Undirected,Stephens,1
+Robert,Undirected,Stevens,1
+Robert,Undirected,Tad,2
+Robert,Undirected,Thaddeus Stevens,2
+Robert,Undirected,The Clerk of the House,1
+Robert,Undirected,Tom Pendel,1
+Robert,Undirected,W.N. Bilbo,1
+Robert,Undirected,Walter H. Washburn,1
+Robert,Undirected,William Slade,2
+Rufus Warren,Undirected,Schuyler Colfax,1
+Rufus Warren,Undirected,Sergeant,1
+Rufus Warren,Undirected,Soldier,1
+Rufus Warren,Undirected,Stephens,1
+Rufus Warren,Undirected,Thaddeus Stevens,1
+Rufus Warren,Undirected,The Clerk of the House,1
+Rufus Warren,Undirected,W.N. Bilbo,1
+Rufus Warren,Undirected,Walter H. Washburn,1
+Schuyler Colfax,Undirected,Sergeant,1
+Schuyler Colfax,Undirected,Seward,1
+Schuyler Colfax,Undirected,Soldier,1
+Schuyler Colfax,Undirected,Stephens,2
+Schuyler Colfax,Undirected,Thaddeus Stevens,3
+Schuyler Colfax,Undirected,The Clerk of the House,3
+Schuyler Colfax,Undirected,W.N. Bilbo,3
+Schuyler Colfax,Undirected,Walter Appleton,1
+Schuyler Colfax,Undirected,Walter H. Washburn,1
+Schuyler Colfax,Undirected,William Hutton,1
+Schuyler Colfax,Undirected,William Slade,1
+Schüler Colfax,Undirected,Thaddeus Stevens,2
+Schüler Colfax,Undirected,W.N. Bilbo,1
+Second Patient,Undirected,Third Patient,1
+Sergeant,Undirected,Soldier,1
+Sergeant,Undirected,Stephens,1
+Sergeant,Undirected,Thaddeus Stevens,1
+Sergeant,Undirected,The Clerk of the House,1
+Sergeant,Undirected,W.N. Bilbo,1
+Sergeant,Undirected,Walter H. Washburn,1
+Seward,Undirected,Stanton,1
+Seward,Undirected,Stephens,1
+Seward,Undirected,Tad,1
+Seward,Undirected,W.N. Bilbo,5
+Seward,Undirected,Welles,1
+Seward,Undirected,William,1
+Soldier,Undirected,Stephens,1
+Soldier,Undirected,Thaddeus Stevens,1
+Soldier,Undirected,The Clerk of the House,1
+Soldier,Undirected,W.N. Bilbo,1
+Soldier,Undirected,Walter H. Washburn,1
+Stanton,Undirected,Welles,1
+Stanton,Undirected,Welles Major Eckert,1
+Stanton,Undirected,William,1
+Stephens,Undirected,Thaddeus Stevens,2
+Stephens,Undirected,The Clerk of the House,2
+Stephens,Undirected,W.N. Bilbo,1
+Stephens,Undirected,Walter Appleton,1
+Stephens,Undirected,Walter H. Washburn,1
+Stephens,Undirected,William Hutton,1
+Stevens,Undirected,Thaddeus Stevens,1
+Stevens,Undirected,William Slade,1
+Tad,Undirected,Tom Pendel,2
+Tad,Undirected,W.N. Bilbo,1
+Tad,Undirected,William Slade,1
+Thaddeus Stevens,Undirected,The Clerk of the House,3
+Thaddeus Stevens,Undirected,W.N. Bilbo,3
+Thaddeus Stevens,Undirected,Walter Appleton,1
+Thaddeus Stevens,Undirected,Walter H. Washburn,1
+Thaddeus Stevens,Undirected,William Hutton,1
+Thaddeus Stevens,Undirected,William Slade,1
+The Clerk of the House,Undirected,W.N. Bilbo,1
+The Clerk of the House,Undirected,Walter Appleton,1
+The Clerk of the House,Undirected,Walter H. Washburn,1
+The Clerk of the House,Undirected,William Hutton,1
+W.N. Bilbo,Undirected,Walter H. Washburn,1
+Walter Appleton,Undirected,William Hutton,1
+Welles,Undirected,William,1

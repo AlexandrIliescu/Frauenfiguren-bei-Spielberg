@@ -1,0 +1,116 @@
+Source,Type,Target,Weight
+anderson,Undirected,lisa,1
+anderson,Undirected,angela,1
+anderson,Undirected,attendant,1
+anderson,Undirected,big man,1
+anderson,Undirected,boy,1
+anderson,Undirected,carol,1
+anderson,Undirected,digital voice,1
+anderson,Undirected,doc,4
+anderson,Undirected,dr. resfield,5
+anderson,Undirected,driver,2
+anderson,Undirected,female,4
+anderson,Undirected,frank d'ignazio,4
+anderson,Undirected,holographic doctor,4
+anderson,Undirected,intercom voice,1
+anderson,Undirected,johnny,1
+anderson,Undirected,kid,2
+anderson,Undirected,lieutenant glaser,2
+anderson,Undirected,lisa,31
+anderson,Undirected,man,2
+anderson,Undirected,mother,1
+anderson,Undirected,officer,7
+anderson,Undirected,officer 1,1
+anderson,Undirected,old guy,1
+anderson,Undirected,page,7
+anderson,Undirected,police officer,1
+anderson,Undirected,rose,14
+anderson,Undirected,senator malcolm,4
+anderson,Undirected,spokeswoman,1
+anderson,Undirected,technican 2,1
+anderson,Undirected,voice,5
+anderson,Undirected,witwer,29
+anderson,Undirected,woman,2
+anderson,Undirected,young black woman,1
+anderson,Undirected,young guy,1
+big man,Undirected,kid,1
+boy,Undirected,carol,1
+boy,Undirected,johnny,1
+boy,Undirected,mother,1
+boy,Undirected,woman,1
+carol,Undirected,johnny,3
+carol,Undirected,little girl,2
+cia cronin,Undirected,fbi swanson,1
+cia cronin,Undirected,justice pollard,1
+cia cronin,Undirected,vice-president almer,1
+cia cronin,Undirected,witwer,2
+defense attorney,Undirected,johnny,1
+defense attorney,Undirected,judge,1
+digital voice,Undirected,page,1
+doc,Undirected,witwer,1
+dr. resfield,Undirected,officer,1
+dr. resfield,Undirected,rose,1
+dr. resfield,Undirected,witwer,3
+driver,Undirected,voice,1
+fbi swanson,Undirected,justice pollard,2
+fbi swanson,Undirected,senator malcolm,1
+fbi swanson,Undirected,vice-president almer,2
+fbi swanson,Undirected,witwer,2
+female,Undirected,lisa,1
+female,Undirected,male left,1
+female,Undirected,male right,2
+female,Undirected,page,1
+female,Undirected,rose,1
+female,Undirected,voice,1
+frank d'ignazio,Undirected,lisa,3
+holographic doctor,Undirected,lieutenant glaser,1
+holographic doctor,Undirected,lisa,2
+holographic doctor,Undirected,officer,2
+holographic doctor,Undirected,rose,1
+holographic doctor,Undirected,witwer,5
+identical police officer,Undirected,officer,1
+intercom voice,Undirected,witwer,1
+james,Undirected,rose,1
+johnny,Undirected,judge,1
+johnny,Undirected,officer 1,2
+johnny,Undirected,officer 2,1
+justice pollard,Undirected,senator malcolm,1
+justice pollard,Undirected,vice-president almer,2
+justice pollard,Undirected,witwer,3
+lieutenant glaser,Undirected,lisa,1
+lieutenant glaser,Undirected,officer,1
+lieutenant glaser,Undirected,rose,2
+lieutenant glaser,Undirected,technican,1
+lieutenant glaser,Undirected,witwer,7
+lisa,Undirected,man,1
+lisa,Undirected,officer 1,1
+lisa,Undirected,officer 2,1
+lisa,Undirected,page,3
+lisa,Undirected,rose,3
+lisa,Undirected,technican,1
+lisa,Undirected,voice,2
+lisa,Undirected,witwer,7
+male left,Undirected,male right,1
+man,Undirected,young black woman,1
+mother,Undirected,teenage son,1
+mother,Undirected,woman,1
+mr. harris,Undirected,timmy,1
+mr. harris,Undirected,tour guide,2
+officer 1,Undirected,officer 2,4
+officer 1,Undirected,old woman,1
+officer 1,Undirected,voice,1
+officer 2,Undirected,voice,1
+officer,Undirected,witwer,5
+old guy,Undirected,spokeswoman,1
+page,Undirected,witwer,1
+page,Undirected,woman,1
+rose,Undirected,witwer,2
+senator malcolm,Undirected,vice-president almer,1
+senator malcolm,Undirected,witwer,1
+technican 1,Undirected,technican 2,1
+technican 1,Undirected,witwer,2
+technican 2,Undirected,witwer,1
+technican,Undirected,witwer,4
+timmy,Undirected,tour guide,1
+vice-president almer,Undirected,witwer,2
+voice,Undirected,witwer,1

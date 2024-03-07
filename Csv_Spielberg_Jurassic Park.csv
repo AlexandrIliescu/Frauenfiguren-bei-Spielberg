@@ -1,0 +1,143 @@
+Source,Type,Target,Weight
+2nd hammond,Undirected,ellie,1
+2nd hammond,Undirected,grant,1
+2nd hammond,Undirected,hammond,1
+2nd hammond,Undirected,new hammond's,1
+2nd hammond,Undirected,regis,1
+arndold,Undirected,muldoon,1
+arnold,Undirected,ellie,5
+arnold,Undirected,gennaro,1
+arnold,Undirected,grant,3
+arnold,Undirected,hammond,10
+arnold,Undirected,lex,1
+arnold,Undirected,muldoon,4
+arnold,Undirected,nedry,5
+arnold,Undirected,radio,1
+arnold,Undirected,timmy,1
+arnold,Undirected,wu,7
+assistants,Undirected,hammond,1
+assistants,Undirected,wu,1
+baker,Undirected,mouth,1
+baker,Undirected,nedry,1
+bald worker,Undirected,bearded worke,1
+bald worker,Undirected,muldoon,1
+bearded worke,Undirected,muldoon,1
+captain farrell,Undirected,nerdy,1
+ellie,Undirected,gennaro,10
+ellie,Undirected,gennarotimmy,1
+ellie,Undirected,grant,20
+ellie,Undirected,hammond,16
+ellie,Undirected,harding,3
+ellie,Undirected,lex,9
+ellie,Undirected,ley,1
+ellie,Undirected,muldoon,13
+ellie,Undirected,nedry,2
+ellie,Undirected,new hammond's,1
+ellie,Undirected,next technican,1
+ellie,Undirected,pre-recorded voice,3
+ellie,Undirected,radio,1
+ellie,Undirected,regis,8
+ellie,Undirected,student,1
+ellie,Undirected,technican,1
+ellie,Undirected,timmy,10
+ellie,Undirected,vet,1
+ellie,Undirected,wu,11
+ellie,Undirected,y,1
+elllie,Undirected,gennaro,1
+elllie,Undirected,grant,2
+elllie,Undirected,nedry,1
+elllie,Undirected,pilot,1
+elllie,Undirected,regis,1
+gennarotimmy,Undirected,grant,1
+gennarotimmy,Undirected,harding,1
+gennarotimmy,Undirected,lex,1
+gennarotimmy,Undirected,regis,1
+gennarotimmy,Undirected,vet,1
+gennaro,Undirected,grant,15
+gennaro,Undirected,hammond,9
+gennaro,Undirected,harding,2
+gennaro,Undirected,lex,11
+gennaro,Undirected,ley,1
+gennaro,Undirected,muldoon,2
+gennaro,Undirected,nedry,3
+gennaro,Undirected,pilot,1
+gennaro,Undirected,pre-recorded voice,1
+gennaro,Undirected,pre-recorded voice,3
+gennaro,Undirected,regis,11
+gennaro,Undirected,ross,1
+gennaro,Undirected,timmy,8
+gennaro,Undirected,wu,1
+grant,Undirected,hammond,13
+grant,Undirected,harding,1
+grant,Undirected,lex,25
+grant,Undirected,lex timmy,1
+grant,Undirected,ley,1
+grant,Undirected,muldoon,6
+grant,Undirected,nedry,3
+grant,Undirected,new hammond's,1
+grant,Undirected,next technican,1
+grant,Undirected,pilot,1
+grant,Undirected,pre-recorded voice,1
+grant,Undirected,pre-recorded voice,4
+grant,Undirected,radio,1
+grant,Undirected,recorded voice,1
+grant,Undirected,regis,15
+grant,Undirected,student,1
+grant,Undirected,technican,1
+grant,Undirected,timmy,27
+grant,Undirected,tour,1
+grant,Undirected,vet,1
+grant,Undirected,wu,2
+hammond,Undirected,harding,1
+hammond,Undirected,lex,6
+hammond,Undirected,ley,1
+hammond,Undirected,muldoon,8
+hammond,Undirected,nedry,5
+hammond,Undirected,new hammond's,1
+hammond,Undirected,next technican,1
+hammond,Undirected,pre-recorded voice,1
+hammond,Undirected,radio,2
+hammond,Undirected,regis,3
+hammond,Undirected,technican,1
+hammond,Undirected,timmy,6
+hammond,Undirected,tour,1
+hammond,Undirected,wu,9
+hammond,Undirected,y,1
+harding,Undirected,lex,1
+harding,Undirected,muldoon,1
+harding,Undirected,regis,1
+harding,Undirected,vet,1
+lex,Undirected,muldoon,1
+lex,Undirected,next technican,1
+lex,Undirected,pre-recorded voice,1
+lex,Undirected,pre-recorded voice,2
+lex,Undirected,recorded voice,1
+lex,Undirected,regis,9
+lex,Undirected,technican,1
+lex,Undirected,timmy,27
+lex,Undirected,vet,1
+lex,Undirected,wu,1
+ley,Undirected,timmy,1
+mouth,Undirected,nedry,1
+muldoon,Undirected,nedry,1
+muldoon,Undirected,regis,4
+muldoon,Undirected,timmy,3
+muldoon,Undirected,tour,1
+muldoon,Undirected,wu,4
+nedry,Undirected,pilot,1
+nedry,Undirected,radio,1
+nedry,Undirected,regis,2
+nedry,Undirected,wu,1
+new hammond's,Undirected,regis,1
+next technican,Undirected,technican,1
+pilot,Undirected,regis,1
+pre-recorded voice,Undirected,regis,1
+pre-recorded voice,Undirected,regis,3
+pre-recorded voice,Undirected,timmy,2
+radio,Undirected,timmy,1
+recorded voice,Undirected,regis,1
+recorded voice,Undirected,timmy,1
+regis,Undirected,timmy,7
+regis,Undirected,tour,1
+regis,Undirected,vet,1
+wu,Undirected,y,1
