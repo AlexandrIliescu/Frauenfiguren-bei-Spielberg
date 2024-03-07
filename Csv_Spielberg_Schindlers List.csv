@@ -1,0 +1,202 @@
+Source,Type,Target,Weight
+accountant,Undirected,schindler,1
+accountant,Undirected,stern,1
+army officer,Undirected,czurda,1
+army officer,Undirected,ingrid,1
+army officer,Undirected,other ss,1
+army officer,Undirected,schindler,1
+boy,Undirected,goeth,1
+boy,Undirected,schindler,1
+brinnlitz guy 1,Undirected,emilie,1
+brinnlitz guy 1,Undirected,parishioners,1
+brinnlitz guy 1,Undirected,priest,1
+brinnlitz guy 1,Undirected,schindler,1
+brinnlitz guy 2,Undirected,girl,1
+brinnlitz guy 2,Undirected,schindler,1
+clerks,Undirected,foreman,1
+clerks,Undirected,goeth,1
+clerks,Undirected,goldberg,1
+clerks,Undirected,handkerchief,1
+clerks,Undirected,physican,1
+clerks,Undirected,police,1
+clerks,Undirected,schindler,2
+clerks,Undirected,sscene 2,1
+clerks,Undirected,stern,2
+clerk,Undirected,goeth,1
+clerk,Undirected,goldberg,1
+clerk,Undirected,schindler,1
+clerk,Undirected,sergeant,1
+clerk,Undirected,stern,2
+clerk,Undirected,teacher,2
+commandant,Undirected,goeth,1
+commandant,Undirected,mila,1
+commandant,Undirected,pfefferberg,1
+czurda,Undirected,goeth,1
+czurda,Undirected,goeth's girl,1
+czurda,Undirected,ingrid,1
+czurda,Undirected,other ss,1
+czurda,Undirected,schindler,2
+doctor,Undirected,emilie,1
+doctor,Undirected,pfefferberg,1
+doctor,Undirected,schindler,1
+doorman,Undirected,emilie,1
+doorman,Undirected,klonowska,1
+doorman,Undirected,schindler,1
+einsatz nico,Undirected,max redlicht,1
+emilie,Undirected,klonowska,1
+emilie,Undirected,parishioners,1
+emilie,Undirected,pfefferberg,1
+emilie,Undirected,priest,1
+emilie,Undirected,rasch,1
+emilie,Undirected,schindler,7
+emilie,Undirected,stern,2
+engineer,Undirected,goeth,1
+engineer,Undirected,hujar,1
+engineer,Undirected,trainmen,1
+factory girl,Undirected,goeth,1
+factory girl,Undirected,jewish girl,1
+factory girl,Undirected,schindler,1
+factory girl,Undirected,stern,1
+foreman,Undirected,schindler,1
+foreman,Undirected,sscene 2,1
+foreman,Undirected,stern,1
+german girl,Undirected,janek,1
+german girl,Undirected,liepold,1
+german girl,Undirected,saboteur,1
+german girl,Undirected,schindler,1
+german girl,Undirected,stenograph,1
+gestapo 1,Undirected,schindler,1
+gestapo clerk,Undirected,schindler,1
+gestapo,Undirected,schindler,2
+girl,Undirected,schindler,1
+goeth's girl,Undirected,schindler,1
+goeth,Undirected,goeth's girl,1
+goeth,Undirected,goldberg,3
+goeth,Undirected,guard,1
+goeth,Undirected,hujar,3
+goeth,Undirected,ingrid,1
+goeth,Undirected,jewish girl,1
+goeth,Undirected,knude,1
+goeth,Undirected,leo hohn,1
+goeth,Undirected,leo john,1
+goeth,Undirected,levartov,2
+goeth,Undirected,madritsch,1
+goeth,Undirected,majola,1
+goeth,Undirected,mila,2
+goeth,Undirected,pfefferberg,2
+goeth,Undirected,police,1
+goeth,Undirected,scherner,1
+goeth,Undirected,schindler,13
+goeth,Undirected,ss colonel,1
+goeth,Undirected,ss officer,1
+goeth,Undirected,stable boy,1
+goeth,Undirected,stern,3
+goeth,Undirected,treblinka guy,1
+goeth,Undirected,worker,1
+goldberg,Undirected,investor 1,1
+goldberg,Undirected,investor 2,1
+goldberg,Undirected,levartov,1
+goldberg,Undirected,pfefferberg,3
+goldberg,Undirected,police,1
+goldberg,Undirected,prisioner,1
+goldberg,Undirected,schindler,1
+goldberg,Undirected,stern,1
+guard,Undirected,schindler,2
+handkerchief,Undirected,physican,1
+hohne,Undirected,kuhnpast,1
+hohne,Undirected,schindler,1
+hohne,Undirected,stern,1
+hoss,Undirected,schindler,1
+hujar,Undirected,schindler,2
+ingrid,Undirected,other ss,1
+ingrid,Undirected,schindler,4
+investigator,Undirected,schindler,1
+investor 1,Undirected,investor 2,1
+investor 1,Undirected,pfefferberg,1
+investor 1,Undirected,schindler,1
+investor 2,Undirected,pfefferberg,1
+investor 2,Undirected,schindler,1
+investor,Undirected,schindler,1
+investor,Undirected,woman at desk,1
+janek,Undirected,liepold,1
+janek,Undirected,saboteur,1
+janek,Undirected,schindler,1
+janek,Undirected,stenograph,1
+jewish girl,Undirected,schindler,1
+jewish girl,Undirected,stern,1
+klonowska,Undirected,schindler,3
+klonwska,Undirected,schindler,1
+kuhnpast,Undirected,schindler,1
+kuhnpast,Undirected,stern,1
+leo hohn,Undirected,pfefferberg,1
+leo hohn,Undirected,schindler,1
+leo john,Undirected,scherner,1
+leo john,Undirected,schindler,1
+leo john,Undirected,ss colonel,1
+leo john,Undirected,ss officer,1
+leo john,Undirected,treblinka guy,1
+levartov,Undirected,madritsch,1
+levartov,Undirected,mila,1
+levartov,Undirected,schindler,4
+levartov,Undirected,stern,2
+levartov,Undirected,worker,1
+liepold,Undirected,saboteur,1
+liepold,Undirected,schindler,4
+liepold,Undirected,stenograph,1
+lieutenant,Undirected,schindler,1
+lieutenant,Undirected,ss officer 1,1
+lieutenant,Undirected,ss officer 2,1
+lieutenant,Undirected,waiter,1
+lowenstein,Undirected,schindler,1
+lowenstein,Undirected,stern,1
+madritsch,Undirected,mila,1
+madritsch,Undirected,schindler,1
+madritsch,Undirected,stern,1
+max redlicht,Undirected,owner,1
+mechanic,Undirected,schindler,1
+mila,Undirected,pfefferberg,1
+mila,Undirected,schindler,1
+mila,Undirected,stern,1
+miss krause,Undirected,schindler,1
+other ss,Undirected,schindler,1
+parishioners,Undirected,priest,1
+parishioners,Undirected,schindler,1
+partisan,Undirected,pfefferberg,1
+pfefferberg,Undirected,schindler,8
+plaszow guard,Undirected,woman,1
+plaszow guard,Undirected,young doctor,1
+polish girl,Undirected,stern,1
+priest,Undirected,schindler,2
+rasch,Undirected,schindler,2
+russian,Undirected,worker,1
+saboteur,Undirected,schindler,1
+saboteur,Undirected,stenograph,1
+scherner,Undirected,schindler,3
+scherner,Undirected,ss colonel,1
+scherner,Undirected,ss officer,1
+scherner,Undirected,toffel,1
+scherner,Undirected,treblinka guy,1
+schindler,Undirected,sergeant,1
+schindler,Undirected,ss officer,2
+schindler,Undirected,ss officer 1,1
+schindler,Undirected,ss officer 2,1
+schindler,Undirected,sscene 2,1
+schindler,Undirected,stenograph,1
+schindler,Undirected,stern,24
+schindler,Undirected,the girl,1
+schindler,Undirected,toffel,2
+schindler,Undirected,waffen guard,2
+schindler,Undirected,waiter,1
+schindler,Undirected,woman,1
+schindler,Undirected,woman at desk,1
+schindler,Undirected,worker,1
+sergeant,Undirected,stern,1
+ss colonel,Undirected,ss officer,1
+ss colonel,Undirected,treblinka guy,1
+ss officer 1,Undirected,ss officer 2,1
+ss officer 1,Undirected,waiter,1
+ss officer 2,Undirected,waiter,1
+ss officer,Undirected,treblinka guy,1
+sscene 2,Undirected,stern,1
+stern,Undirected,woman,1
+woman,Undirected,young doctor,1

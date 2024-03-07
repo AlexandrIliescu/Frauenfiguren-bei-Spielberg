@@ -1,0 +1,116 @@
+Source,Type,Target,Weight
+A Mother,Undirected,The BFG,1
+A Mother,Undirected,little Boy,1
+Black,Undirected,Older Girl,1
+Black,Undirected,Sophie,1
+Black,Undirected,Typist,1
+Bloodletter,Undirected,Bone Cruncher,4
+Bloodletter,Undirected,Butcher Boy,1
+Bloodletter,Undirected,Butcherboy,1
+Bloodletter,Undirected,Childchewer,1
+Bloodletter,Undirected,Fleshlumpea,2
+Bloodletter,Undirected,Fleshlumpeater,2
+Bloodletter,Undirected,Gizzardgulper,1
+Bloodletter,Undirected,Jack,1
+Bloodletter,Undirected,Maidmasher,2
+Bloodletter,Undirected,Manhugger,2
+Bloodletter,Undirected,Mea Tdripper,1
+Bloodletter,Undirected,Meatdripper,1
+Bloodletter,Undirected,Sophie,7
+Bloodletter,Undirected,The BFG,6
+Bone Cruncher,Undirected,Butcher Boy,1
+Bone Cruncher,Undirected,Butcherboy,1
+Bone Cruncher,Undirected,Childchewer,1
+Bone Cruncher,Undirected,Fleshlumpea,2
+Bone Cruncher,Undirected,Fleshlumpeater,1
+Bone Cruncher,Undirected,Gizzardgulper,1
+Bone Cruncher,Undirected,Jack,1
+Bone Cruncher,Undirected,Maidmasher,2
+Bone Cruncher,Undirected,Manhugger,2
+Bone Cruncher,Undirected,Mea Tdripper,1
+Bone Cruncher,Undirected,Meatdripper,1
+Bone Cruncher,Undirected,Sophie,4
+Bone Cruncher,Undirected,The BFG,3
+Bonecruncher,Undirected,Fleshlumpea,1
+Bonecruncher,Undirected,Manhugger,1
+Bonecruncher,Undirected,Sophie,1
+Bonecruncher,Undirected,The BFG,1
+Butcher Boy,Undirected,Fleshlumpea,1
+Butcher Boy,Undirected,Gizzardgulper,1
+Butcher Boy,Undirected,Maidmasher,1
+Butcher Boy,Undirected,Manhugger,1
+Butcher Boy,Undirected,Mea Tdripper,1
+Butcher Boy,Undirected,Sophie,1
+Butcherboy,Undirected,Fleshlumpea,1
+Butcherboy,Undirected,Sophie,1
+Butcherboy,Undirected,The BFG,1
+Butler,Undirected,Maid,1
+Butler,Undirected,Mary,1
+Butler,Undirected,Sophie,1
+Butler,Undirected,The BFG,1
+Butler,Undirected,The Queen,1
+Butler,Undirected,Tibbs,1
+Childchewer,Undirected,Fleshlumpeater,1
+Childchewer,Undirected,Manhugger,1
+Childchewer,Undirected,Meatdripper,1
+Childchewer,Undirected,Sophie,1
+Childchewer,Undirected,The BFG,1
+Fleshlumpeater,Undirected,Manhugger,1
+Fleshlumpeater,Undirected,Meatdripper,1
+Fleshlumpeater,Undirected,Sophie,3
+Fleshlumpeater,Undirected,The BFG,3
+Fleshlumpea,Undirected,Gizzardgulper,1
+Fleshlumpea,Undirected,Maidmasher,1
+Fleshlumpea,Undirected,Manhugger,2
+Fleshlumpea,Undirected,Mea Tdripper,1
+Fleshlumpea,Undirected,Prince Charles,1
+Fleshlumpea,Undirected,Sophie,4
+Fleshlumpea,Undirected,The BFG,3
+Fleshlumpea,Undirected,Tibbs,1
+Gizzardgulper,Undirected,Maidmasher,1
+Gizzardgulper,Undirected,Manhugger,1
+Gizzardgulper,Undirected,Mea Tdripper,1
+Gizzardgulper,Undirected,Sophie,1
+Jack,Undirected,Maidmasher,1
+Jack,Undirected,Sophie,1
+Jack,Undirected,The BFG,1
+Mad Man,Undirected,Sophie,1
+Mad Man,Undirected,The Phantom,1
+Maidmasher,Undirected,Manhugger,1
+Maidmasher,Undirected,Mea Tdripper,1
+Maidmasher,Undirected,Sophie,2
+Maidmasher,Undirected,The BFG,1
+Maid,Undirected,Mary,1
+Maid,Undirected,Sophie,1
+Maid,Undirected,The BFG,1
+Maid,Undirected,The Queen,1
+Maid,Undirected,Tibbs,1
+Manhugger,Undirected,Mea Tdripper,1
+Manhugger,Undirected,Meatdripper,1
+Manhugger,Undirected,Sophie,3
+Manhugger,Undirected,The BFG,2
+Mary,Undirected,Sophie,3
+Mary,Undirected,The BFG,3
+Mary,Undirected,The Majesty,1
+Mary,Undirected,The Queen,3
+Mary,Undirected,Tibbs,2
+Mea Tdripper,Undirected,Sophie,1
+Meatdripper,Undirected,Sophie,1
+Meatdripper,Undirected,The BFG,1
+Older Girl,Undirected,Sophie,1
+Older Girl,Undirected,Typist,1
+Prince Charles,Undirected,Sophie,1
+Prince Charles,Undirected,The BFG,1
+Prince Charles,Undirected,Tibbs,1
+Sophie,Undirected,The BFG,20
+Sophie,Undirected,The Majesty,1
+Sophie,Undirected,The Phantom,1
+Sophie,Undirected,The Queen,3
+Sophie,Undirected,Tibbs,3
+Sophie,Undirected,Typist,1
+The BFG,Undirected,The Majesty,1
+The BFG,Undirected,The Queen,3
+The BFG,Undirected,Tibbs,3
+The BFG,Undirected,little Boy,1
+The Majesty,Undirected,The Queen,1
+The Queen,Undirected,Tibbs,2

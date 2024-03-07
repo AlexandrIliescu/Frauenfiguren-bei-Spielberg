@@ -1,0 +1,115 @@
+Source,Type,Target,Weight
+ajay,Undirected,burke,2
+ajay,Undirected,dieter,1
+ajay,Undirected,hunter,1
+ajay,Undirected,ludlow,2
+ajay,Undirected,roland,10
+ajay,Undirected,tourist,2
+ajay,Undirected,waiter,1
+ajay,Undirected,waitress,1
+board member,Undirected,chairman,1
+board member,Undirected,hammond,1
+board member,Undirected,ludlow,1
+board member,Undirected,mrs bowman,1
+bowman,Undirected,cathy,2
+bowman,Undirected,mrs bowman,2
+burke,Undirected,carter,1
+burke,Undirected,dieter,4
+burke,Undirected,juttson,2
+burke,Undirected,kelly,2
+burke,Undirected,ludlow,5
+burke,Undirected,nick,3
+burke,Undirected,roland,5
+burke,Undirected,sarah,3
+butler,Undirected,malcolm,1
+captain,Undirected,malcolm,1
+captain,Undirected,nick,1
+captain,Undirected,sarah,1
+carter,Undirected,dieter,2
+carter,Undirected,kelly,1
+carter,Undirected,ludlow,1
+carter,Undirected,roland,2
+carter,Undirected,sarah,1
+cathy,Undirected,mrs bowman,2
+chairman,Undirected,hammond,1
+chairman,Undirected,ludlow,1
+chairman,Undirected,mrs bowman,1
+co-pilot,Undirected,pilot,1
+dieter,Undirected,driver,1
+dieter,Undirected,hunter,1
+dieter,Undirected,hunter 2,1
+dieter,Undirected,juttson,1
+dieter,Undirected,kelly,1
+dieter,Undirected,ludlow,7
+dieter,Undirected,malcolm,1
+dieter,Undirected,nick,2
+dieter,Undirected,roland,4
+dieter,Undirected,sarah,1
+driver,Undirected,hunter,1
+driver,Undirected,hunter 2,1
+driver,Undirected,ludlow,1
+eddie,Undirected,juttson,7
+eddie,Undirected,kelly,9
+eddie,Undirected,malcolm,11
+eddie,Undirected,nick,7
+eddie,Undirected,sarah,7
+eddie,Undirected,workman,1
+hammond,Undirected,lex,1
+hammond,Undirected,ludlow,2
+hammond,Undirected,malcolm,2
+hammond,Undirected,mrs bowman,1
+hammond,Undirected,tim,1
+hunter 2,Undirected,juttson,1
+hunter 2,Undirected,ludlow,1
+hunter 2,Undirected,malcolm,1
+hunter 2,Undirected,nick,1
+hunter 2,Undirected,sarah,1
+hunter,Undirected,hunter 2,3
+hunter,Undirected,juttson,1
+hunter,Undirected,ludlow,1
+hunter,Undirected,malcolm,1
+hunter,Undirected,nick,1
+hunter,Undirected,roland,1
+hunter,Undirected,sarah,1
+juttson,Undirected,kelly,8
+juttson,Undirected,ludlow,5
+juttson,Undirected,malcolm,13
+juttson,Undirected,nick,12
+juttson,Undirected,roland,4
+juttson,Undirected,sarah,14
+kelly,Undirected,ludlow,1
+kelly,Undirected,malcolm,15
+kelly,Undirected,nick,9
+kelly,Undirected,nick,1
+kelly,Undirected,pilot,1
+kelly,Undirected,sarah,16
+kelly,Undirected,workman,1
+lex,Undirected,malcolm,1
+lex,Undirected,tim,1
+ludlow,Undirected,malcolm,7
+ludlow,Undirected,mrs bowman,1
+ludlow,Undirected,nick,5
+ludlow,Undirected,roland,11
+ludlow,Undirected,sarah,5
+makena,Undirected,sarah,1
+malcolm,Undirected,man,1
+malcolm,Undirected,nick,36
+malcolm,Undirected,pilot,3
+malcolm,Undirected,roland,8
+malcolm,Undirected,sarah,36
+malcolm,Undirected,thud,1
+malcolm,Undirected,tim,1
+malcolm,Undirected,workman,1
+male,Undirected,nick,1
+male,Undirected,sarah,1
+nick,Undirected,roland,6
+nick,Undirected,sarah,41
+nick,Undirected,sarah,1
+pilot,Undirected,roland,1
+pilot,Undirected,sarah,2
+roland,Undirected,sarah,5
+roland,Undirected,tourist,2
+roland,Undirected,waiter,1
+roland,Undirected,waitress,1
+tourist,Undirected,waiter,1
+tourist,Undirected,waitress,1

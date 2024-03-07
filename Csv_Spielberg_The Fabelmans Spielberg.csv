@@ -1,0 +1,203 @@
+Source,Target,Type,Id,Label,Weight
+Angelo,Bennie,Undirected,55,,1
+Angelo,Burt,Undirected,56,,1
+Angelo,Dean,Undirected,57,,1
+Angelo,Hark,Undirected,58,,1
+Angelo,Mitzi,Undirected,59,,1
+Angelo,Natalie,Undirected,60,,1
+Angelo,Reggie,Undirected,61,,1
+Angelo,Roger,Undirected,62,,2
+Angelo,Sal,Undirected,63,,2
+Angelo,Sammy,Undirected,64,,2
+Angelo,Scoutmaster Newhart,Undirected,65,,1
+Angelo,Troop Dad,Undirected,66,,1
+Angelo,Turkey,Undirected,67,,1
+Bennie Loewy,Burt,Undirected,68,,2
+Bennie Loewy,Hadassah,Undirected,69,,2
+Bennie Loewy,Mitzi,Undirected,70,,2
+Bennie Loewy,Natalie,Undirected,71,,1
+Bennie Loewy,Reggie,Undirected,72,,1
+Bennie Loewy,Sammy,Undirected,73,,2
+Bennie,Burt,Undirected,74,,7
+Bennie,Dean,Undirected,75,,1
+Bennie,Hadassah,Undirected,76,,1
+Bennie,Hark,Undirected,77,,1
+Bennie,Lisa,Undirected,78,,5
+Bennie,Mitzi,Undirected,79,,9
+Bennie,Monica,Undirected,80,,1
+Bennie,Natalie,Undirected,81,,6
+Bennie,Reggie,Undirected,82,,6
+Bennie,Roger,Undirected,83,,1
+Bennie,Sal,Undirected,84,,1
+Bennie,Sammy,Undirected,85,,7
+Bennie,Scoutmaster Newhart,Undirected,86,,1
+Bennie,The First Clerk,Undirected,87,,1
+Bennie,The Second Clerk,Undirected,88,,1
+Bennie,Troop Dad,Undirected,89,,1
+Bennie,Turkey,Undirected,90,,1
+Benni,Burt,Undirected,91,,1
+Benni,Mitzi,Undirected,92,,2
+Benni,Natalie,Undirected,93,,2
+Benni,Reggie,Undirected,94,,2
+Benni,Sammy,Undirected,95,,2
+Bernie Fein,Nona,Undirected,96,,1
+Bernie Fein,Sammy,Undirected,97,,2
+Boris,Burt,Undirected,98,,1
+Boris,Lisa,Undirected,99,,2
+Boris,Mitzi,Undirected,100,,2
+Boris,Natalie,Undirected,101,,1
+Boris,Sammy,Undirected,102,,2
+Burt,Dean,Undirected,103,,2
+Burt,Hadassah,Undirected,104,,5
+Burt,Hark,Undirected,105,,1
+Burt,Lisa,Undirected,106,,10
+Burt,Mitzi,Undirected,107,,30
+Burt,Monica,Undirected,108,,2
+Burt,Monica´s Dad,Undirected,109,,1
+Burt,Natalie,Undirected,110,,17
+Burt,Nurse,Undirected,111,,1
+Burt,Reggie,Undirected,112,,16
+Burt,Roger,Undirected,113,,1
+Burt,Sal,Undirected,114,,2
+Burt,Sammy,Undirected,115,,29
+Burt,Scoutmaster Newhart,Undirected,116,,1
+Burt,The Owner,Undirected,117,,1
+Burt,Tina,Undirected,118,,2
+Burt,Tina Schildkraut,Undirected,119,,2
+Burt,Troop Dad,Undirected,120,,1
+Burt,Turkey,Undirected,121,,1
+Chad,Claudia,Undirected,122,,3
+Chad,Coach,Undirected,123,,1
+Chad,Logan,Undirected,124,,5
+Chad,Monica,Undirected,125,,1
+Chad,Natalie,Undirected,126,,1
+Chad,Principal,Undirected,127,,1
+Chad,Red-Haired Girl,Undirected,128,,1
+Chad,Reggie,Undirected,129,,1
+Chad,Renee Reynolds,Undirected,130,,1
+Chad,Sammy,Undirected,131,,6
+Claudia,Logan,Undirected,132,,4
+Claudia,Monica,Undirected,133,,2
+Claudia,Renee Reynolds,Undirected,134,,3
+Claudia,Sammy,Undirected,135,,4
+Clerk,Sammy,Undirected,136,,1
+Coach,Logan,Undirected,137,,1
+Coach,Natalie,Undirected,138,,1
+Coach,Reggie,Undirected,139,,1
+Coach,Sammy,Undirected,140,,1
+Dean,Hark,Undirected,141,,5
+Dean,Mitzi,Undirected,142,,1
+Dean,Natalie,Undirected,143,,3
+Dean,Reggie,Undirected,144,,3
+Dean,Roger,Undirected,145,,4
+Dean,Sal,Undirected,146,,6
+Dean,Sammy,Undirected,147,,5
+Dean,Scoutmaster Newhart,Undirected,148,,1
+Dean,The Owner,Undirected,149,,1
+Dean,Troop Dad,Undirected,150,,1
+Dean,Turkey,Undirected,151,,5
+Engineer,Robber 1,Undirected,152,,1
+Engineer,Robber 2,Undirected,153,,1
+Hadassah,Lisa,Undirected,154,,1
+Hadassah,Mitzi,Undirected,155,,4
+Hadassah,Monica,Undirected,156,,1
+Hadassah,Natalie,Undirected,157,,2
+Hadassah,Reggie,Undirected,158,,3
+Hadassah,Sammy,Undirected,159,,5
+Hadassah,Tina,Undirected,160,,1
+Hadassah,Tina Schildkraut,Undirected,161,,1
+Hark,Mitzi,Undirected,162,,1
+Hark,Natalie,Undirected,163,,3
+Hark,Reggie,Undirected,164,,3
+Hark,Reporter,Undirected,165,,1
+Hark,Roger,Undirected,166,,5
+Hark,Sal,Undirected,167,,6
+Hark,Sammy,Undirected,168,,7
+Hark,Scoutmaster Newhart,Undirected,169,,1
+Hark,Stoddard,Undirected,170,,1
+Hark,Troop Dad,Undirected,171,,1
+Hark,Turkey,Undirected,172,,7
+John Ford,Sammy,Undirected,173,,1
+Lisa,Mitzi,Undirected,174,,11
+Lisa,Monica,Undirected,175,,1
+Lisa,Natalie,Undirected,176,,9
+Lisa,Reggie,Undirected,177,,10
+Lisa,Sammy,Undirected,178,,11
+Logan,Monica,Undirected,179,,1
+Logan,Natalie,Undirected,180,,1
+Logan,Red-Haired Girl,Undirected,181,,1
+Logan,Reggie,Undirected,182,,1
+Logan,Renee Reynolds,Undirected,183,,2
+Logan,Sammy,Undirected,184,,5
+Mitzi,Monica,Undirected,185,,2
+Mitzi,Monica´s Dad,Undirected,186,,1
+Mitzi,Natalie,Undirected,187,,19
+Mitzi,Nurse,Undirected,188,,1
+Mitzi,Reggie,Undirected,189,,16
+Mitzi,Roger,Undirected,190,,1
+Mitzi,Sal,Undirected,191,,1
+Mitzi,Sammy,Undirected,192,,32
+Mitzi,Scoutmaster Newhart,Undirected,193,,1
+Mitzi,Tina,Undirected,194,,2
+Mitzi,Tina Schildkraut,Undirected,195,,1
+Mitzi,Troop Dad,Undirected,196,,1
+Mitzi,Turkey,Undirected,197,,1
+Monica,Monica´s Dad,Undirected,198,,1
+Monica,Monica´s Mother,Undirected,199,,1
+Monica,Natalie,Undirected,200,,1
+Monica,Principal,Undirected,201,,1
+Monica,Reggie,Undirected,202,,1
+Monica,Renee Reynolds,Undirected,203,,2
+Monica,Sammy,Undirected,204,,7
+Monica´s Dad,Sammy,Undirected,205,,1
+Monica´s Mother,Sammy,Undirected,206,,1
+Natalie,Reggie,Undirected,207,,24
+Natalie,Roger,Undirected,208,,2
+Natalie,Sal,Undirected,209,,3
+Natalie,Sammy,Undirected,210,,25
+Natalie,Scoutmaster Newhart,Undirected,211,,1
+Natalie,The Owner,Undirected,212,,1
+Natalie,Troop Dad,Undirected,213,,1
+Natalie,Turkey,Undirected,214,,3
+Nona,Sammy,Undirected,215,,1
+Nurse,Sammy,Undirected,216,,1
+Nurse,Tina Schildkraut,Undirected,217,,1
+Principal,Sammy,Undirected,218,,1
+Red-Haired Girl,Sammy,Undirected,219,,1
+Reggie,Roger,Undirected,220,,2
+Reggie,Sal,Undirected,221,,3
+Reggie,Sammy,Undirected,222,,25
+Reggie,Scoutmaster Newhart,Undirected,223,,1
+Reggie,The Owner,Undirected,224,,1
+Reggie,Tina Schildkraut,Undirected,225,,1
+Reggie,Troop Dad,Undirected,226,,1
+Reggie,Turkey,Undirected,227,,3
+Renee Reynolds,Sammy,Undirected,228,,2
+Reporter,Roger,Undirected,229,,1
+Reporter,Sammy,Undirected,230,,1
+Reporter,Stoddard,Undirected,231,,1
+Robber 1,Robber 2,Undirected,232,,1
+Roger,Sal,Undirected,233,,5
+Roger,Sammy,Undirected,234,,5
+Roger,Scoutmaster Newhart,Undirected,235,,1
+Roger,Stoddard,Undirected,236,,1
+Roger,Troop Dad,Undirected,237,,1
+Roger,Turkey,Undirected,238,,4
+Sal,Sammy,Undirected,239,,7
+Sal,Scoutmaster Newhart,Undirected,240,,1
+Sal,The Owner,Undirected,241,,1
+Sal,Troop Dad,Undirected,242,,1
+Sal,Turkey,Undirected,243,,6
+Sammy,Scoutmaster Newhart,Undirected,244,,1
+Sammy,Stoddard,Undirected,245,,1
+Sammy,The First Clerk,Undirected,246,,1
+Sammy,The Owner,Undirected,247,,1
+Sammy,The Second Clerk,Undirected,248,,1
+Sammy,Tina,Undirected,249,,1
+Sammy,Tina Schildkraut,Undirected,250,,2
+Sammy,Troop Dad,Undirected,251,,1
+Sammy,Turkey,Undirected,252,,6
+Scoutmaster Newhart,Troop Dad,Undirected,253,,1
+Scoutmaster Newhart,Turkey,Undirected,254,,1
+The First Clerk,The Second Clerk,Undirected,255,,1
+Troop Dad,Turkey,Undirected,256,,1

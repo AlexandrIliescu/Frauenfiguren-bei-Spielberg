@@ -1,0 +1,132 @@
+Source,Type,Target,Weight
+boy,Undirected,dead american paratrooper,1
+boy,Undirected,french farmer,1
+boy,Undirected,male,1
+boy,Undirected,miller,1
+boy,Undirected,upham,1
+boy,Undirected,woman 1,1
+boy,Undirected,woman 2,1
+captain hamill,Undirected,jackson,1
+captain hamill,Undirected,miller,2
+captain hamill,Undirected,radioman,1
+captain hamill,Undirected,reiben,2
+captain hamill,Undirected,sarge,2
+captain hamill,Undirected,upham,2
+captain hamill,Undirected,wade,1
+clerk,Undirected,young lieutenant,1
+colonel anderson,Undirected,lieutenant,1
+colonel anderson,Undirected,major,1
+colonel anderson,Undirected,miller,1
+colonel,Undirected,general marshall,1
+colonel,Undirected,young captain,1
+dead american paratrooper,Undirected,french farmer,1
+dead american paratrooper,Undirected,male,1
+dead american paratrooper,Undirected,miller,1
+dead american paratrooper,Undirected,upham,1
+dead american paratrooper,Undirected,woman 1,1
+dead american paratrooper,Undirected,woman 2,1
+french farmer,Undirected,male,1
+french farmer,Undirected,miller,1
+french farmer,Undirected,upham,1
+french farmer,Undirected,woman 1,1
+french farmer,Undirected,woman 2,1
+general gavin,Undirected,jackson,1
+general gavin,Undirected,miller,1
+general gavin,Undirected,reiben,1
+general gavin,Undirected,sarge,1
+general gavin,Undirected,supply sergeant,1
+german private,Undirected,german sergeant,1
+german private,Undirected,jackson,1
+german private,Undirected,miller,1
+german private,Undirected,upham,1
+german sergeant,Undirected,jackson,1
+german sergeant,Undirected,miller,1
+german sergeant,Undirected,upham,1
+jackson,Undirected,men,1
+jackson,Undirected,miller,25
+jackson,Undirected,motorman,1
+jackson,Undirected,private,1
+jackson,Undirected,radioman,1
+jackson,Undirected,reiben,21
+jackson,Undirected,ryan,8
+jackson,Undirected,sarge,13
+jackson,Undirected,sergeant,2
+jackson,Undirected,supply sergeant,2
+jackson,Undirected,upham,15
+jackson,Undirected,voice,1
+jackson,Undirected,voice from bridge,1
+jackson,Undirected,wade,9
+jackson,Undirected,young soldier,1
+lieutenant,Undirected,major,1
+lieutenant,Undirected,miller,2
+lieutenant,Undirected,sarge,1
+major,Undirected,miller,1
+male,Undirected,miller,1
+male,Undirected,upham,1
+male,Undirected,woman 1,1
+male,Undirected,woman 2,1
+men,Undirected,miller,1
+men,Undirected,motorman,1
+men,Undirected,reiben,1
+men,Undirected,sarge,1
+men,Undirected,young soldier,1
+miller,Undirected,motorman,1
+miller,Undirected,private,1
+miller,Undirected,radioman,1
+miller,Undirected,reiben,26
+miller,Undirected,ryan,11
+miller,Undirected,sarge,25
+miller,Undirected,sergeant,2
+miller,Undirected,supply sergeant,2
+miller,Undirected,upham,20
+miller,Undirected,voice,1
+miller,Undirected,voice from bridge,1
+miller,Undirected,wade,8
+miller,Undirected,woman 1,1
+miller,Undirected,woman 2,1
+miller,Undirected,young soldier,1
+motorman,Undirected,reiben,1
+motorman,Undirected,sarge,1
+motorman,Undirected,young soldier,1
+private,Undirected,reiben,1
+private,Undirected,sarge,1
+private,Undirected,sergeant,1
+private,Undirected,supply sergeant,1
+private,Undirected,wade,1
+radioman,Undirected,reiben,1
+radioman,Undirected,sarge,1
+radioman,Undirected,upham,1
+radioman,Undirected,wade,1
+reiben,Undirected,ryan,10
+reiben,Undirected,sarge,18
+reiben,Undirected,sergeant,2
+reiben,Undirected,supply sergeant,2
+reiben,Undirected,upham,17
+reiben,Undirected,voice,1
+reiben,Undirected,voice from bridge,1
+reiben,Undirected,wade,8
+reiben,Undirected,young soldier,1
+ryan,Undirected,sarge,4
+ryan,Undirected,sergeant,1
+ryan,Undirected,upham,8
+ryan,Undirected,voice,1
+ryan,Undirected,voice from bridge,1
+sarge,Undirected,sergeant,1
+sarge,Undirected,supply sergeant,2
+sarge,Undirected,upham,12
+sarge,Undirected,voice,1
+sarge,Undirected,voice from bridge,1
+sarge,Undirected,wade,7
+sarge,Undirected,young soldier,1
+sergeant,Undirected,supply sergeant,1
+sergeant,Undirected,upham,1
+sergeant,Undirected,wade,1
+supply sergeant,Undirected,wade,1
+upham,Undirected,voice,1
+upham,Undirected,voice from bridge,1
+upham,Undirected,wade,7
+upham,Undirected,woman 1,1
+upham,Undirected,woman 2,1
+voice,Undirected,voice from bridge,1
+woman 1,Undirected,woman 2,1
+young captain,Undirected,young lieutenant,1
