@@ -1,4 +1,4 @@
-# DH-Projekt (Gruppe 3)
+# Frauenfiguren bei Steven Spielberg (DH-Projekt Gruppe 3)
 Unsere Studie untersucht die Bedeutungszuschreibung und Rollendarstellung von Frauenfiguren in den Filmen von Steven Spielberg. Hierfür vergleicht die Studie die Repräsentation weiblicher und männlicher Filmfiguren, um die Bedeutung der Frauen besser einschätzen zu können. Auch die Darstellung von Frauenfiguren in Filmen von Stanley Kubrick und Quentin Tarantino wurde analysiert, um Spielbergs Filme kontextualisieren zu können. Die Ergebnisse der Untersuchung basieren hauptsächlich auf der Kategorisierung von Redeanteilen der weiblichen Figuren in den Filmskripten durch digitale Annotation sowie auf der Einordnung der Frauenfiguren in die Beziehungsnetzwerke der Filme durch eine Netzwerkanalyse.
 Das Repository enthält die Datengrundlage der Studie sowie die erhobenen Daten.
 
