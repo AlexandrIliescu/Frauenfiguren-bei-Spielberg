@@ -2,6 +2,8 @@
 Unsere Studie untersucht die Bedeutungszuschreibung und Rollendarstellung von Frauenfiguren in den Filmen von Steven Spielberg. Hierfür vergleicht die Studie die Repräsentation weiblicher und männlicher Filmfiguren, um die Bedeutung der Frauen besser einschätzen zu können. Auch die Darstellung von Frauenfiguren in Filmen von Stanley Kubrick und Quentin Tarantino wurde analysiert, um Spielbergs Filme kontextualisieren zu können. Die Ergebnisse der Untersuchung basieren hauptsächlich auf der Kategorisierung von Redeanteilen der weiblichen Figuren in den Filmskripten durch digitale Annotation sowie auf der Einordnung der Frauenfiguren in die Beziehungsnetzwerke der Filme durch eine Netzwerkanalyse.
 Das Repository enthält die Datengrundlage der Studie sowie die erhobenen Daten.
 
+Projektbeteiligte: Christina Nickl, Stefan-Alexandru Iliescu, Ana-Maria Arghirescu, Svenja Först, Miriam Mayer
+
 # KORPUS
 Das Korpus der Untersuchung bestand aus insgesamt 30 digitalen Filmskripten. Die Skripte sind aus Urheberrechtsgründen nicht aufgeführt, können jedoch auf den Filmskriptdatenbanken Script Slug, IMSDb und Drew’s Script-O-Rama gefunden werden. Das Korpus setzte sich aus 20 Skripten von Filmen zusammen, bei denen Steven Spielberg Regie führte, sowie jeweils fünf Vergleichsskripten von Quentin Tarantino und Stanley Kubrick. Diese werden im Folgenden aufgeführt.
 
